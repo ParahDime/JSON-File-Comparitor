@@ -37,7 +37,7 @@ class DirectoryManager:
 
         #Section
         self.sec_var = tk.StringVar(value="Section")
-        self.section_menu = ttk.OptionMenu(dropdown_frame, self.sec_var, *self.category_data.keys(), style="Custom.TMenubutton", command=self.sync_subsections)
+        self.section_menu = ttk.OptionMenu(dropdown_frame, self.sec_var, "Section", *self.category_data.keys(), style="Custom.TMenubutton", command=self.sync_subsections)
         self.section_menu.config(width=15)
         self.section_menu.grid(row=0, column=0, padx=5)
 
@@ -94,11 +94,24 @@ class DirectoryManager:
         print(f"Checking {url} against your 2000+ entries...")
         messagebox.showinfo("Success", f"Verified! Ready to add to {section} > {subsection}")
 
-        self.addToFile(self)
+        self.addToFile()
 
     #add the data to the JSON
     def addToFile(self):
-        return "hello world"
+        entry = {
+        "url": self.url_entry.get().strip(),
+        "description": self.desc_entry.get("1.0", tk.END).strip(),  # Text widget needs range args
+        "section": self.sec_var.get(),
+        "subsection": self.sub_var.get()
+    }
+
+        data = self.load_json(self.data_file)  # load existing entries
+        data.append(entry)                     # append new entry
+
+        with open(self.data_file, 'w') as f:
+            json.dump(data, f, indent=4)       # write back to file
+
+        messagebox.showinfo("Saved", f"Entry added to {self.data_file}")
 
 
 if __name__ == "__main__":
