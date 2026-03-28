@@ -43,7 +43,7 @@ class DirectoryManager:
 
         #Subsection
         self.sub_var = tk.StringVar(value="Subsection")
-        self.subsection_menu = ttk.OptionMenu(dropdown_frame, self.sub_var, "---", style="Custom.TMenubutton")
+        self.subsection_menu = ttk.OptionMenu(dropdown_frame, self.sub_var, "Select Subsection", style="Custom.TMenubutton")
         self.subsection_menu.config(width=15)
         self.subsection_menu.grid(row=0, column=1, padx=5) # Column 1
 
@@ -92,27 +92,41 @@ class DirectoryManager:
 
         #comparison search here
         print(f"Checking {url} against your 2000+ entries...")
-        messagebox.showinfo("Success", f"Verified! Ready to add to {section} > {subsection}")
+        #messagebox.showinfo("Success", f"Verified! Ready to add to {section} > {subsection}")
 
-        self.addToFile()
+        success = self.addToFile()
+        print(success)
+        if success:
+            self.clearFields()
 
-    #add the data to the JSON
+    #get the data then add the data to the JSON
     def addToFile(self):
         entry = {
-        "url": self.url_entry.get().strip(),
-        "description": self.desc_entry.get("1.0", tk.END).strip(),  # Text widget needs range args
-        "section": self.sec_var.get(),
-        "subsection": self.sub_var.get()
-    }
+            "url": self.url_entry.get().strip(),
+            "description": self.desc_entry.get("1.0", tk.END).strip(),
+            "section": self.sec_var.get(),
+            "subsection": self.sub_var.get()
+        }
 
-        data = self.load_json(self.data_file)  # load existing entries
-        data.append(entry)                     # append new entry
+        #append the data into the file
+        data = self.load_json(self.data_file)
+        data.append(entry)                     
 
+        #write to file
         with open(self.data_file, 'w') as f:
-            json.dump(data, f, indent=4)       # write back to file
+            json.dump(data, f, indent=4)       
 
         messagebox.showinfo("Saved", f"Entry added to {self.data_file}")
+        return True
 
+    #clear each field, use after a successful entry
+    def clearFields(self):
+        self.url_entry.delete(0, tk.END)
+        self.desc_entry.delete("1.0", tk.END)
+        self.sec_var.set("Section")
+        self.sub_var.set("Select Subsection")
+        
+        self.subsection_menu["menu"].delete(0, "end")
 
 if __name__ == "__main__":
     root = tk.Tk()
