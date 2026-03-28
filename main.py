@@ -9,7 +9,7 @@ class DirectoryManager:
     def __init__(self, root):
         self.root = root
         self.root.title("Manual Link Directory Input")
-        self.root.geometry("600x350")
+        self.root.geometry("600x400")
 
         #JSON name files
         self.data_file = "directory.json"
@@ -27,7 +27,7 @@ class DirectoryManager:
 
         #Description input
         tk.Label(root, text="Description:", font=('Comic Sans', 10, 'bold')).pack(pady=(10,0))
-        self.desc_entry = tk.Text(root, width=80, height=2)
+        self.desc_entry = tk.Text(root, width=60, height=2)
         self.desc_entry.pack(pady=5)
         
         #Section menu
@@ -50,9 +50,13 @@ class DirectoryManager:
 
         #recent entries
         tk.Label(root, text="Recent Entries:", font=('Arial', 9, 'bold')).pack(pady=(10,0))
-        self.recent_box = tk.Text(root, width=80, height=4, state='disabled', bg='#f0f0f0')
+        self.recent_box = tk.Text(root, width=60, height=4, state='disabled', bg='#f0f0f0')
         self.recent_box.pack(pady=5)
-        self.refresh_recent()  # populate on startup
+        self.refresh_recent()
+
+        self.entry_count_label = tk.Label(root, text="", font=('Arial', 9, 'italic'))
+        self.entry_count_label.pack(pady=(0,5))
+        self.update_entry_count()
 
         #Add to JSON button
         self.add_btn = tk.Button(
@@ -61,6 +65,8 @@ class DirectoryManager:
             command=self.validate_and_check
         )
         self.add_btn.pack(pady=20)
+        #keybind to also add to JSON
+        self.root.bind('<Return>', lambda e: self.validate_and_check())
 
     #Dropdown population
     def load_json(self, filename):
@@ -88,7 +94,12 @@ class DirectoryManager:
     
     #compare input to other inputs in the same section
     def validate_and_check(self):
+        #clean url entry
         url = self.url_entry.get().strip()
+        url = self.normalise_url(url)
+        self.url_entry.delete(0, tk.END)
+        self.url_entry.insert(0, url)
+
         section = self.sec_var.get()
         subsection = self.sub_var.get()
 
@@ -126,12 +137,28 @@ class DirectoryManager:
         if success:
             self.clearFields()
             self.refresh_recent()
+            self.update_entry_count()
 
     #get the first part of the domain
     def get_base_domain(self, url):
         if not url.startswith("http"):
             url = "https://" + url
         return urlparse(url).netloc
+
+    #sanitise and normalise the url (ensuring https and www are added)
+    def normalise_url(self, url):
+        url = url.strip()
+        
+        # add https:// if no protocol present
+        if not url.startswith(("http://", "https://", "ftp://")):
+            url = "https://" + url
+        
+        # add www. if no subdomain present
+        parsed = urlparse(url)
+        if not parsed.netloc.startswith("www."):
+            url = url.replace(parsed.netloc, "www." + parsed.netloc)
+        
+        return url
 
     #popup window to show potential matches
     def show_matches_popup(self, matches):
@@ -194,6 +221,12 @@ class DirectoryManager:
         self.sub_var.set("Select Subsection")
         
         self.subsection_menu["menu"].delete(0, "end")
+
+    #update the entry count
+    def update_entry_count(self):
+        data = self.load_json(self.data_file)
+        count = len(data)
+        self.entry_count_label.config(text=f"Total entries: {count:,}")
 
     #refresh the list of 3 most recent url additions
     def refresh_recent(self):
