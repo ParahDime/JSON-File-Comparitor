@@ -3,6 +3,7 @@ from tkinter import messagebox, ttk
 import json
 from rapidfuzz import fuzz #old package
 import os
+from urllib.parse import urlparse
 
 class DirectoryManager:
     def __init__(self, root):
@@ -47,6 +48,7 @@ class DirectoryManager:
         self.subsection_menu.config(width=15)
         self.subsection_menu.grid(row=0, column=1, padx=5) # Column 1
 
+        #recent entries
         tk.Label(root, text="Recent Entries:", font=('Arial', 9, 'bold')).pack(pady=(10,0))
         self.recent_box = tk.Text(root, width=80, height=4, state='disabled', bg='#f0f0f0')
         self.recent_box.pack(pady=5)
@@ -72,12 +74,11 @@ class DirectoryManager:
 
     #after section is chosen, load in subsection JIT
     def sync_subsections(self, selection):
-        #delete old menu items
         self.sub_var.set("Select Subsection")
         menu = self.subsection_menu["menu"]
         menu.delete(0, "end")
 
-        #creation of 'new' menu
+        #creation of new menu
         new_options = self.category_data.get(selection, [])
         for option in new_options:
             menu.add_command(
@@ -98,6 +99,27 @@ class DirectoryManager:
         #comparison search here
         print(f"Checking {url} against your 2000+ entries...")
 
+        data = self.load_json(self.data_file)
+
+        #check for an exact match on the url
+        exact_match = next((e for e in data if e['url'] == url), None)
+        if exact_match:
+            messagebox.showerror("Duplicate URL", 
+                f"This exact URL already exists:\n\n"
+                f"Section: {exact_match['section']} > {exact_match['subsection']}\n"
+                f"Description: {exact_match['description']}")
+            self.clearFields()
+            return 
+        
+        
+        input_domain = self.get_base_domain(url)
+        matches = [e for e in data if self.get_base_domain(e['url']) == input_domain]
+
+        if matches:
+        #show custom popup, stop if user cancels
+            if not self.show_matches_popup(matches):
+                return
+
         success = self.addToFile()
         print(success)
         #clear fields and update recent files added if added correctly
@@ -105,6 +127,45 @@ class DirectoryManager:
             self.clearFields()
             self.refresh_recent()
 
+    #get the first part of the domain
+    def get_base_domain(self, url):
+        if not url.startswith("http"):
+            url = "https://" + url
+        return urlparse(url).netloc
+
+    #popup window to show potential matches
+    def show_matches_popup(self, matches):
+        popup = tk.Toplevel(self.root)
+        popup.title("Similar Entries Found")
+        popup.geometry("500x250")
+        popup.grab_set()                                # locks focus to popup
+
+        tk.Label(popup, text="Multiple similar entries found:", font=('Arial', 10, 'bold')).pack(pady=(10,0))
+
+        # scrollable list
+        frame = tk.Frame(popup)
+        frame.pack(fill='both', expand=True, padx=10, pady=5)
+        scrollbar = tk.Scrollbar(frame)
+        scrollbar.pack(side='right', fill='y')
+        listbox = tk.Listbox(frame, yscrollcommand=scrollbar.set, width=70, height=10)
+        for e in matches:
+            listbox.insert(tk.END, f"{e['url']}  |  {e['section']} > {e['subsection']}")
+        listbox.pack(side='left', fill='both')
+        scrollbar.config(command=listbox.yview)
+
+        # result tracks whether user clicked Add or Cancel
+        result = tk.BooleanVar(value=False)
+
+        btn_frame = tk.Frame(popup)
+        btn_frame.pack(pady=10)
+        tk.Button(btn_frame, text="Add Anyway", bg="#33493c", fg="white",
+                command=lambda: [result.set(True), popup.destroy()]).grid(row=0, column=0, padx=10)
+        tk.Button(btn_frame, text="Cancel", bg="#8b0000", fg="white",
+                command=lambda: [result.set(False), popup.destroy()]).grid(row=0, column=1, padx=10)
+
+        self.root.wait_window(popup)                    # waits for popup to close before continuing
+        return result.get()
+    
     #get the data then add the data to the JSON
     def addToFile(self):
         entry = {
