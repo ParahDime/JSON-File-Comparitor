@@ -47,6 +47,11 @@ class DirectoryManager:
         self.subsection_menu.config(width=15)
         self.subsection_menu.grid(row=0, column=1, padx=5) # Column 1
 
+        tk.Label(root, text="Recent Entries:", font=('Arial', 9, 'bold')).pack(pady=(10,0))
+        self.recent_box = tk.Text(root, width=80, height=4, state='disabled', bg='#f0f0f0')
+        self.recent_box.pack(pady=5)
+        self.refresh_recent()  # populate on startup
+
         #Add to JSON button
         self.add_btn = tk.Button(
             root, text="Verify & Add", 
@@ -92,12 +97,13 @@ class DirectoryManager:
 
         #comparison search here
         print(f"Checking {url} against your 2000+ entries...")
-        #messagebox.showinfo("Success", f"Verified! Ready to add to {section} > {subsection}")
 
         success = self.addToFile()
         print(success)
+        #clear fields and update recent files added if added correctly
         if success:
             self.clearFields()
+            self.refresh_recent()
 
     #get the data then add the data to the JSON
     def addToFile(self):
@@ -127,6 +133,20 @@ class DirectoryManager:
         self.sub_var.set("Select Subsection")
         
         self.subsection_menu["menu"].delete(0, "end")
+
+    #refresh the list of 3 most recent url additions
+    def refresh_recent(self):
+        data = self.load_json(self.data_file)
+        last_three = data[-3:]                          
+        
+        self.recent_box.config(state='normal')
+        self.recent_box.delete("1.0", tk.END)
+        
+        for entry in reversed(last_three):
+            line = f"{entry['url']} | {entry['section']} > {entry['subsection']}\n"
+            self.recent_box.insert(tk.END, line)
+        
+        self.recent_box.config(state='disabled')
 
 if __name__ == "__main__":
     root = tk.Tk()

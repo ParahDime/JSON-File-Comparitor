@@ -4,5 +4,11 @@
         "description": "Google Search Engine",
         "section": "Software",
         "subsection": "Search Engines"
+    },
+    {
+        "url": "www.bing.com",
+        "description": "",
+        "section": "Software",
+        "subsection": "Search Engines"
     }
 ]
