@@ -1,9 +1,12 @@
 import tkinter as tk
-from tkinter import messagebox, ttk
+from tkinter import messagebox, ttk, filedialog
 import json
 from rapidfuzz import fuzz #old package
 import os
 from urllib.parse import urlparse
+
+import pandas as pd
+
 
 class DirectoryManager:
     def __init__(self, root):
@@ -14,7 +17,25 @@ class DirectoryManager:
         #JSON name files
         self.data_file = "directory.json"
         self.category_data = self.load_json('categories.json')
+        self.queue_file = "queue.json"
               
+        self.excel_queue = self.load_json(self.queue_file)
+
+        self.read_in_btn = tk.Button(
+            root, text="Select File", 
+            bg="#33493c", fg="white", font=('Arial', 10, 'bold'),
+            command=self.select_excel_file
+        )
+        self.read_in_btn.pack(pady=10)
+
+        self.process_btn = tk.Button(
+            root, text="Process Staged Data (0 remaining)", 
+            bg="#1d5c38", fg="white", font=('Arial', 10, 'bold'),
+            command=self.open_process_popup
+        )
+        #Check if items in read in queue
+        
+
         #dropdown lists
         self.section_menu = tk.StringVar(value="Select Section")
         self.subsection_menu = tk.StringVar(value="Select Subsection")
@@ -68,6 +89,206 @@ class DirectoryManager:
         #keybind to also add to JSON
         self.root.bind('<Return>', lambda e: self.validate_and_check())
 
+        self.update_process_button()
+
+    #save the queue
+    def save_queue_to_disk(self):
+        with open(self.queue_file, 'w') as f:
+            json.dump(self.excel_queue, f, indent=4)
+
+    # ADDED: Remove single item from queue and rewrite queue.json
+    def remove_from_queue_disk(self, index=0):
+        if self.excel_queue:
+            self.excel_queue.pop(index)
+            self.save_queue_to_disk()
+
+    def select_excel_file(self):
+        file_path = filedialog.askopenfilename(
+            title="Select Excel File",
+            filetypes=[("Excel Files", "*.xlsx *.xls"), ("All Files", "*.*")]
+        )
+        if not file_path:
+            return
+
+        try:
+            sheets_dict = pd.read_excel(file_path, sheet_name=None, header=None)
+            new_items_count = 0
+
+            for sheet_name, df in sheets_dict.items():
+                df = df.dropna(how='all')
+                for _, row in df.iterrows():
+                    subsec = str(row.iloc[1]).strip() if len(row) > 1 and pd.notna(row.iloc[1]) else ""
+                    raw_url = str(row.iloc[2]).strip() if len(row) > 2 and pd.notna(row.iloc[2]) else ""
+                    desc = str(row.iloc[3]).strip() if len(row) > 3 and pd.notna(row.iloc[3]) else ""
+
+                    if raw_url:
+                        # CHANGED: Appends to existing list so multiple Excel files stack together
+                        self.excel_queue.append({
+                            "section": str(sheet_name).strip(),
+                            "subsection": subsec,
+                            "url": raw_url,
+                            "description": desc
+                        })
+                        new_items_count += 1
+
+            if new_items_count > 0:
+                # CHANGED: Persists entire updated queue array to queue.json once reading completes
+                self.save_queue_to_disk()
+                self.update_process_button()
+                messagebox.showinfo("Success", f"Added {new_items_count} items to queue. Total staged: {len(self.excel_queue)}")
+            else:
+                messagebox.showwarning("Warning", "No valid link entries found in the file.")
+
+        except Exception as e:
+            messagebox.showerror("Error", f"Failed to parse Excel file:\n{str(e)}")
+
+    def update_process_button(self):
+        count = len(self.excel_queue)
+        if count > 0:
+            self.process_btn.config(text=f"Process Staged Data ({count} remaining)")
+            self.process_btn.pack(pady=(0, 10), before=self.add_btn)
+        else:
+            self.process_btn.pack_forget()
+
+    def open_process_popup(self):
+        if not self.excel_queue:
+            return
+
+        popup = tk.Toplevel(self.root)
+        popup.title("Review & Process Staged Data")
+        popup.geometry("550x450")
+        popup.grab_set()
+
+        item = self.excel_queue[0]
+
+        tk.Label(popup, text=f"Items Remaining in Queue: {len(self.excel_queue)}", font=('Arial', 10, 'bold')).pack(pady=5)
+
+        # Editable URL
+        tk.Label(popup, text="URL:").pack()
+        p_url_entry = tk.Entry(popup, width=65)
+        p_url_entry.insert(0, item['url'])
+        p_url_entry.pack(pady=2)
+
+        # Editable Description
+        tk.Label(popup, text="Description:").pack()
+        p_desc_entry = tk.Text(popup, width=50, height=3)
+        p_desc_entry.insert("1.0", item['description'])
+        p_desc_entry.pack(pady=2)
+
+        # --- SECTION / SUBSECTION DROPDOWN BLOCK ---
+        tk.Label(popup, text="Section / Subsection:").pack()
+        frame_cat = tk.Frame(popup)
+        frame_cat.pack(pady=2)
+
+        initial_sec = item['section'] if item['section'] in self.category_data else "Section"
+        sec_var = tk.StringVar(value=initial_sec)
+        
+        initial_sub = item['subsection'] if item['subsection'] else "Select Subsection"
+        sub_var = tk.StringVar(value=initial_sub)
+
+        # Callback to update subsections when section changes
+        def update_subsections(selected_section):
+            sec_var.set(selected_section)
+            sub_var.set("Select Subsection")
+            menu = p_sub_menu["menu"]
+            menu.delete(0, "end")
+            
+            options = self.category_data.get(selected_section, [])
+            for option in options:
+                menu.add_command(label=option, command=lambda v=option: sub_var.set(v))
+
+        p_sec_menu = ttk.OptionMenu(
+            frame_cat, sec_var, initial_sec, 
+            *self.category_data.keys(), 
+            command=update_subsections
+        )
+        p_sec_menu.grid(row=0, column=0, padx=5)
+
+        p_sub_menu = ttk.OptionMenu(frame_cat, sub_var, initial_sub)
+        p_sub_menu.grid(row=0, column=1, padx=5)
+
+        # Populate subsection options on initial load
+        if initial_sec in self.category_data:
+            menu = p_sub_menu["menu"]
+            menu.delete(0, "end")
+            for option in self.category_data[initial_sec]:
+                menu.add_command(label=option, command=lambda v=option: sub_var.set(v))
+
+        # --- ACTION BUTTON FUNCTIONS ---
+        def commit_and_next():
+            raw_url = p_url_entry.get().strip()
+            if not raw_url:
+                messagebox.showerror("Error", "URL cannot be empty.", parent=popup)
+                return
+
+            norm_url = self.normalise_url(raw_url)
+            data = self.load_json(self.data_file)
+
+            exact_match = next((e for e in data if e['url'] == norm_url), None)
+            if exact_match:
+                messagebox.showerror("Duplicate URL", 
+                    f"Exact URL exists:\n{exact_match['section']} > {exact_match['subsection']}\n"
+                    f"Desc: {exact_match['description']}", parent=popup)
+                return
+
+            domain = self.get_base_domain(norm_url)
+            matches = [e for e in data if self.get_base_domain(e['url']) == domain]
+            if matches and not self.show_matches_popup(matches):
+                return
+
+            # Save approved item to main database
+            new_entry = {
+                "url": norm_url,
+                "description": p_desc_entry.get("1.0", tk.END).strip(),
+                "section": sec_var.get(),
+                "subsection": sub_var.get()
+            }
+            data.append(new_entry)
+            with open(self.data_file, 'w') as f:
+                json.dump(data, f, indent=4)
+
+            # Delete from queue.json disk file
+            self.remove_from_queue_disk(0)
+
+            self.refresh_recent()
+            self.update_entry_count()
+            self.update_process_button()
+            popup.destroy()
+
+            if self.excel_queue:
+                self.open_process_popup()
+
+        # Completely delete item from queue.json without saving to directory.json
+        def discard_item():
+            self.remove_from_queue_disk(0)
+            self.update_process_button()
+            popup.destroy()
+            if self.excel_queue:
+                self.open_process_popup()
+
+        # Close popup without deleting the current item from queue.json
+        def skip_for_later():
+            popup.destroy()
+
+        # --- POPUP BUTTON LAYOUT ---
+        btn_frame = tk.Frame(popup)
+        btn_frame.pack(pady=15)
+
+        tk.Button(
+            btn_frame, text="Verify & Add", bg="#33493c", fg="white", 
+            font=('Arial', 9, 'bold'), width=12, command=commit_and_next
+        ).grid(row=0, column=0, padx=5)
+
+        tk.Button(
+            btn_frame, text="Discard Item", bg="#8b0000", fg="white", 
+            font=('Arial', 9, 'bold'), width=12, command=discard_item
+        ).grid(row=0, column=1, padx=5)
+
+        tk.Button(
+            btn_frame, text="Close Window", bg="#555555", fg="white", 
+            font=('Arial', 9, 'bold'), width=12, command=skip_for_later
+        ).grid(row=0, column=2, padx=5)   
+        
     #Dropdown population
     def load_json(self, filename):
         if not os.path.exists(filename):
@@ -241,6 +462,21 @@ class DirectoryManager:
             self.recent_box.insert(tk.END, line)
         
         self.recent_box.config(state='disabled')
+
+    #Load the unsorted stored data
+    def load_queue(self):
+        if not os.path.exists("queue.json"):
+            return []
+        try:
+            with open("queue.json", "r") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, FileNotFoundError):
+            return []
+
+    #Save the queue whenever a state changes
+    def save_queue(self):
+        with open("queue.json", "w") as f:
+            json.dump(self.excel_queue, f, indent=4)
 
 if __name__ == "__main__":
     root = tk.Tk()

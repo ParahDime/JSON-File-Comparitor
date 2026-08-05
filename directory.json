@@ -10,5 +10,1295 @@
         "description": "",
         "section": "Software",
         "subsection": "Search Engines"
+    },
+    {
+        "url": "https://www.letmeread.net/",
+        "description": "Good reads",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w",
+        "description": "Language directory",
+        "section": "Languages",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.comfybox.floofey.dog/articles/creating-dictionaries-based-on-information-from-osint.9/",
+        "description": "Build OSINT directories",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.web.archive.org/web/20180528205030/http://subvert.pw/res/discord.pdf",
+        "description": "Article on Discord by DOD",
+        "section": "CyberSec",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.codingbat.com/java",
+        "description": "Learn Java",
+        "section": "Programming Languages",
+        "subsection": "Java"
+    },
+    {
+        "url": "https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual",
+        "description": "Autodesk, Student Access",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RbbQl2sU-ag",
+        "description": "Drawing with Adobe Illustrator",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=i_wDa2AS_8w",
+        "description": "Beginner C++ Habits",
+        "section": "Programming Languages",
+        "subsection": "C++"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Qgevy75co8c",
+        "description": "Fast Python looping tutorial",
+        "section": "Programming Languages",
+        "subsection": "Python"
+    },
+    {
+        "url": "https://www.makeuseof.com/tag/5-oreilly-ebooks-free/",
+        "description": "OReilly Books with free download",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=eDa1U9qJKxo",
+        "description": "Rich Dad Poor Dad summary",
+        "section": "Books",
+        "subsection": "Summaries"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Mus_vwhTCq0",
+        "description": "Tips in Javascript",
+        "section": "Programming Languages",
+        "subsection": "JavaScript"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=g_wlZ9IhbTs",
+        "description": "Good python practices",
+        "section": "Programming Languages",
+        "subsection": "Python"
+    },
+    {
+        "url": "https://www.reddit.com/r/beginnerprojects/",
+        "description": "Project ideas, Python",
+        "section": "Socials",
+        "subsection": "SubReddits"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+        "description": "FreeCodeCamp C++ Course",
+        "section": "Programming Languages",
+        "subsection": "C++"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=EJiVWoFk8GA",
+        "description": "Computer Science Overview (12 mins)",
+        "section": "Programming",
+        "subsection": "Resources"
+    },
+    {
+        "url": "https://www.web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf",
+        "description": "HTML Cheat Sheet",
+        "section": "Programming Languages",
+        "subsection": "HTML"
+    },
+    {
+        "url": "https://www.support.microsoft.com/en-us/office/add-hyperlinks-to-a-location-within-the-same-document-1f24fc4f-7ccd-4c5f-87e1-9ddefb672e0e",
+        "description": "Add hyperlinks to documents",
+        "section": "Programming",
+        "subsection": "Help"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-uleG_Vecis",
+        "description": "100 Computer Science Concepts Explained",
+        "section": "Programming",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Jfvg3CS1X3A",
+        "description": "40 windows commands",
+        "section": "Programming",
+        "subsection": "Help"
+    },
+    {
+        "url": "https://www.rosettacode.org/wiki/Category:Programming_Tasks",
+        "description": "Rosetta Code, programming tasks",
+        "section": "Programming",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gPsYkV7-yJk",
+        "description": "Reverse Engineering",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.github.com/Tyrrrz/DiscordChatExporter/releases",
+        "description": "Discord Chat Exporter",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.github.com/karan/Projects-Solutions/blob/master/README.md",
+        "description": "Project ideas and solutions",
+        "section": "Programming",
+        "subsection": "Ideas"
+    },
+    {
+        "url": "https://www.bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_data_structure_(Generation_I)",
+        "description": "Pokemon Gen 1 Data Structs",
+        "section": "Game Development",
+        "subsection": "Resources"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IuTv5qu7A0Q",
+        "description": "Learning to be a digital nomad",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.logodiffusion.com",
+        "description": "AI Logo Creator",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.tinywow.com",
+        "description": "Writing tool",
+        "section": "Software",
+        "subsection": "Files"
+    },
+    {
+        "url": "https://www.ilovepdf.com",
+        "description": "PDF download and editor",
+        "section": "Software",
+        "subsection": "Files"
+    },
+    {
+        "url": "https://www.hl.co.uk/",
+        "description": "Hargreaves Lansdown",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.jobswipe.net/",
+        "description": "Job searching app",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.builtin.com",
+        "description": "Latest tech jobs platform",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.justremote.co",
+        "description": "Remote only jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.nodesk.co",
+        "description": "Remote only jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.opensourcealternative.to",
+        "description": "Open source alternatives",
+        "section": "Software",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.editor.jobsuit.ai",
+        "description": "Build and apply to jobs with AI",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.axiom.ai",
+        "description": "Browser automation workflows",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.aliggner.com",
+        "description": "AI trainer",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.contentjobs.academy",
+        "description": "Make videos for money",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.flipper.net/",
+        "description": "Flipper key",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.search.google.com/search-console/about",
+        "description": "Google improve site performance SEO",
+        "section": "Software",
+        "subsection": "Search Engines"
+    },
+    {
+        "url": "https://www.vercel.com/",
+        "description": "Vercel web hosting",
+        "section": "Programming",
+        "subsection": "Web dev"
+    },
+    {
+        "url": "https://www.characterhub.com/",
+        "description": "In depth character sheet",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.extern.com/",
+        "description": "Build projects with AI and large companies",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.revouninstaller.com/",
+        "description": "App uninstaller",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.infinityfree.com",
+        "description": "Web hosting",
+        "section": "Programming",
+        "subsection": "Web dev"
+    },
+    {
+        "url": "https://www.affirm.com/en-gb/careers",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.remoterocketship.com/gb/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.cluely.com/",
+        "description": "AI meeting assistant",
+        "section": "Software",
+        "subsection": "Productivity"
+    },
+    {
+        "url": "https://www.coinbase.com/careers/positions?location=remote",
+        "description": "Coinbase remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.joinsidequest.com/",
+        "description": "Study focus groups paid",
+        "section": "Finance Jobs",
+        "subsection": "Marketing"
+    },
+    {
+        "url": "https://www.trymata.com/",
+        "description": "Usability testing for websites",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.openbb.co/",
+        "description": "AI workspace for finance",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.hivemicro.com/",
+        "description": "Paid to train AI",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.neevo.ai/",
+        "description": "Paid to improve AI",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.remotasks.com/en",
+        "description": "Paid to do tasks from home",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.pareto.ai/",
+        "description": "Paid to train AI",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.appen.com/careers",
+        "description": "Train AI",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.clickworker.com/",
+        "description": "AI Data",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.rws.com/artificial-intelligence/",
+        "description": "Help train AI",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.education.oracle.com/race-to-certification-2025",
+        "description": "AI race to certification",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.vim-adventures.com/",
+        "description": "Learn VIM",
+        "section": "Software",
+        "subsection": "Productivity"
+    },
+    {
+        "url": "https://www.gov.uk/contracts-finder",
+        "description": "UK Contracts finder",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.paidinfull.vip/",
+        "description": "Sales course (requires payment)",
+        "section": "Courses",
+        "subsection": "Systems"
+    },
+    {
+        "url": "https://www.solvearn.net/",
+        "description": "Find startups for work",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.microsoft.github.io/TRELLIS.2/",
+        "description": "AI image modelling",
+        "section": "Images",
+        "subsection": "Image Learning/Scraping"
+    },
+    {
+        "url": "https://www.ifonetool.com/online-video-downloader",
+        "description": "Online video/music downloader",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.startmycar.com",
+        "description": "Car manuals",
+        "section": "Skills",
+        "subsection": "Cars"
+    },
+    {
+        "url": "https://www.jobsuit.ai/",
+        "description": "AI resume builder",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "https://www.datasetsearch.research.google.com",
+        "description": "Datasets for research",
+        "section": "Programming",
+        "subsection": "Resources"
+    },
+    {
+        "url": "https://www.pypi.org/project/pynput/",
+        "description": "Pynput - can be modded to be a data injector for data brokers",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.wonsulting.com/networkai",
+        "description": "AI networking app",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.anthropic.skilljar.com/",
+        "description": "Claude courses",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.course.fast.ai/",
+        "description": "Deep learning course",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.blog.bytebytego.com/",
+        "description": "Newsletter",
+        "section": "Programming",
+        "subsection": "Resources"
+    },
+    {
+        "url": "https://www.jobs.ac.uk",
+        "description": "Jobs board",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.generalist.world/jobs/",
+        "description": "Quiz for job roles",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.remotejobsfinder.co/en/platform",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.4download.net/",
+        "description": "Free software",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.getintopc.com/",
+        "description": "Free software",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.streamex.sh/",
+        "description": "Streaming online",
+        "section": "Media",
+        "subsection": "Movies"
+    },
+    {
+        "url": "https://www.jobright.ai/",
+        "description": "Job board",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.ramen.tools/small-dev-tools",
+        "description": "Small dev tools - encoding, data sets etc",
+        "section": "Programming",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.unsplash.com/",
+        "description": "Free images and pictures",
+        "section": "Images",
+        "subsection": "Stock"
+    },
+    {
+        "url": "https://www.responsively.app/",
+        "description": "Online front end app designer",
+        "section": "Software",
+        "subsection": "Productivity"
+    },
+    {
+        "url": "https://www.paper2gal.com/",
+        "description": "Turn academic papers into visual novels",
+        "section": "Software",
+        "subsection": "Files"
+    },
+    {
+        "url": "https://www.facebook.com",
+        "description": "Facebook Social media site",
+        "section": "Socials",
+        "subsection": "Social Media"
+    },
+    {
+        "url": "https://www.en.boardgamearena.com/",
+        "description": "Online board games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.govdeals.com/en",
+        "description": "US Government deals (surplus)",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.krita.org/en/",
+        "description": "Krita art software (free, desktop)",
+        "section": "Software",
+        "subsection": "Image Editors"
+    },
+    {
+        "url": "https://www.figcareer.com/",
+        "description": "AI powered career roadmap",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.filmpire.sc/",
+        "description": "Online films and videos",
+        "section": "Media",
+        "subsection": "Movies"
+    },
+    {
+        "url": "https://www.emberfellows.org/",
+        "description": "Ember fellowships",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.fuckingstudy.com",
+        "description": "AI powered education companion",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.usesprout.com/",
+        "description": "Job applications using AI (paid)",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "https://www.stitch.withgoogle.com/",
+        "description": "Designing with google AI",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.opal.google/landing/",
+        "description": "AI App builder (google)",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.labs.google.com/pomelli/about",
+        "description": "Build on-brand content for businesses",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.notebooklm.google/",
+        "description": "Google research tool",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.aistudio.google.com/",
+        "description": "Quickly build AI apps (google)",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.film-grab.com/",
+        "description": "Still frames from films",
+        "section": "Images",
+        "subsection": "Stock"
+    },
+    {
+        "url": "https://www.artofthetitle.com/titles/",
+        "description": "Title cards of series",
+        "section": "Images",
+        "subsection": "Image Learning/Scraping"
+    },
+    {
+        "url": "https://www.newconstructs.com/",
+        "description": "AI investment advice",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.see.stanford.edu/",
+        "description": "Stanford engineering courses",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.pewdiepie-archdaemon.github.io/odysseus/",
+        "description": "Self hosted interface for AI language models",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.ollama.com/",
+        "description": "Ai language model self hosted",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.virgili0.github.io/Virgilio/",
+        "description": "Open source data science",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+        "description": "React for beginners",
+        "section": "Programming Languages",
+        "subsection": "JavaScript"
+    },
+    {
+        "url": "https://www.educative.io/courses/react-beginner-to-advanced",
+        "description": "Beginner react course (paid)",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Rh3tobg7hEo",
+        "description": "Build a beginner react app",
+        "section": "Programming Languages",
+        "subsection": "JavaScript"
+    },
+    {
+        "url": "http://www.meeshdesigns.com/Western%20Fonts/",
+        "description": "Copyrighted fonts to download",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.iconduck.com/",
+        "description": "multiple icons for use, open source",
+        "section": "Images",
+        "subsection": "Stock"
+    },
+    {
+        "url": "https://www.fontshare.com/",
+        "description": "Professional fonts",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.pdfdrive.com/category/1",
+        "description": "Art books",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "http://www.artiscreation.com/books.html",
+        "description": "Books on artwork, colour theory",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.archive.ph/www.incandescentdragon.com",
+        "description": "Archive, drawings of comic books",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.line-of-action.com/",
+        "description": "Art exercises",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.artstation.com/marketplace/game-dev?section=trending&q=Nude%20reference",
+        "description": "Drawing references, nude, paid",
+        "section": "Images",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.Proko.com",
+        "description": "Drawing courses",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.Anatomyfortheartist.com",
+        "description": "Art anatomy drawings",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.posespace.com",
+        "description": "Pose reference models",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.Artmodels360.com",
+        "description": "Art reference images",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.lesley.edu/article/the-12-principles-of-animation",
+        "description": "12 Principles of animation",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.vishopper.com/",
+        "description": "site for body references for art",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.editorx.com/shaping-design/article/web-typography-rules?experiment_id=web-typography-rules",
+        "description": "Rules of web typography",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.satinezillah.com/photoreferences/p/anatomyofaman",
+        "description": "Reference body pictures",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.satinezillah.com/photoreferences/p/maleact",
+        "description": "Art reference photos, paid",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.satinezillah.com/photoreferences/p/musclestudy",
+        "description": "Photo references, muscular build",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.satinezillah.com/photoreferences/p/figurestudy",
+        "description": "Photo reference, figure study",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.satinezillah.com/photoreferences/p/adonis",
+        "description": "Photo reference",
+        "section": "Art",
+        "subsection": "Select Subsection"
+    },
+    {
+        "url": "https://www.satinezillah.com/photoreferences/p/backanatomyfemale",
+        "description": "Photo reference, female, behind",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.autodraw.com/",
+        "description": "Drawing online, powered by AI",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.kleki.com/",
+        "description": "Online art tool",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.makereal.tldraw.com/",
+        "description": "online art tool",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.w14.monkrus.ws/",
+        "description": "adobe products (cracked)",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.affinity.serif.com/en-gb/",
+        "description": "Better version of adobe",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.drawabox.com/",
+        "description": "Learn to draw",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.x.com/JaydenLibran/status/1801834770114240893",
+        "description": "Animation notes",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=duSzh2EwNyw",
+        "description": "Learn to draw",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.theartling.com/en/artzine/contemporary-art-styles/",
+        "description": "Art styles",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=AejgJCI36Bc",
+        "description": "Portrait demonstration",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vIueh7LjofQ",
+        "description": "How to use perspective (modelling)",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wOXtpa5xp7I",
+        "description": "Longview, drawing from one punch man",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=v-Ej9EIlfoc",
+        "description": "Illustration, easy drawing poses",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=dSf0UYDi9sA",
+        "description": "Practice drawing a head",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vY2P_Z28Z5k",
+        "description": "Drawing a weapon tutorial",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cF2UtfFT7y8",
+        "description": "Master studying for art",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GWtF0yGQMSg",
+        "description": "Drawing tutorial, metropunk(?)",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=q9YKQQo9zeI",
+        "description": "Tutorial, improving portrait structure",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=m-_RPFLmOFs",
+        "description": "Drawing faces using perspective",
+        "section": "Art",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/@paintcoach",
+        "description": "Paint coach",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@thevirtualinstructor",
+        "description": "Visual instructor",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@saitonaoki",
+        "description": "Naoki saito",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@DavidFinchartist",
+        "description": "David Finch",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@yukoring",
+        "description": "Yukoring",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@TabART",
+        "description": "TABart",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@PhatNail",
+        "description": "Phat Le",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@akihitoyoshitomi3758",
+        "description": "Akihito Yoshitomi",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@YVNArt",
+        "description": "NV art (russian landscape)",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.youtube.com/@WatercolorbyShibasaki",
+        "description": "Shibasaki Watercolor",
+        "section": "Art",
+        "subsection": "Creators"
+    },
+    {
+        "url": "https://www.github.com/jaymrobinson/PoETools",
+        "description": "Making stash art",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.cgdream.ai/",
+        "description": "AI art generator",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.canva.com/es_co/funciones/generador-de-imagenes-por-ia/",
+        "description": "AI image generator",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.opus.ai/",
+        "description": "Text to video AI",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "http://www.kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/",
+        "description": "Onion links, archive",
+        "section": "Books",
+        "subsection": "Onion"
+    },
+    {
+        "url": "http://www.bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/",
+        "description": "z lib, onion route",
+        "section": "Books",
+        "subsection": "Onion"
+    },
+    {
+        "url": "https://www.tor.taxi",
+        "description": "Tor service, multiple onion links",
+        "section": "Socials",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.avalonlibrary.net/ebooks/Alan%20Watts%20-%20The%20Way%20of%20Zen.pdf",
+        "description": "The art of zen",
+        "section": "Books",
+        "subsection": "Goodreads"
+    },
+    {
+        "url": "https://www.books.libreoffice.org/en/",
+        "description": "Libre manuals",
+        "section": "Books",
+        "subsection": "Software"
+    },
+    {
+        "url": "https://www.pdfdrive.com/the-gimp-bible-great-for-beginners-40-step-by-step-tutorials-e200502730.html",
+        "description": "For using GIMP 2 software",
+        "section": "Art",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.whatshouldireadnext.com",
+        "description": "What should I read next",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.learn.saylor.org/",
+        "description": "University courses, online",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.open.bccampus.ca/browse-our-collection/",
+        "description": "University book collection (open textbook)",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.royalsocietypublishing.org/rsos/collection",
+        "description": "RPS archive",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+        "description": "Medical articles, archive",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.opensource.com/education/13/4/guide-open-source-education",
+        "description": "Open source learning",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.en.wikibooks.org/wiki/Main_Page",
+        "description": "Wikibooks page",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "section": "Programming",
+        "subsection": "Java",
+        "url": "http://java-programming.mooc.fi/",
+        "description": "Learn java"
+    },
+    {
+        "section": "Programming",
+        "subsection": "JavaScript",
+        "url": "https://www.w3schools.com/js/",
+        "description": "W3Schools section for javascript"
+    },
+    {
+        "section": "Programming",
+        "subsection": "HTML",
+        "url": "https://www.youtube.com/watch?v=PypMN-yui4Y",
+        "description": "Introduction to HTML"
+    },
+    {
+        "section": "Programming",
+        "subsection": "Java",
+        "url": "http://javatpoint.com",
+        "description": "Learn Java"
+    },
+    {
+        "section": "Programming",
+        "subsection": "Java",
+        "url": "https://codingbat.com/java",
+        "description": "Learn java"
+    },
+    {
+        "section": "Programming",
+        "subsection": "HTML",
+        "url": "The box model - Learn web development | MDN",
+        "description": "HTML box model"
+    },
+    {
+        "section": "Programming",
+        "subsection": "HTML",
+        "url": "https://web.dev/learn-html-available/",
+        "description": "HTML Course"
+    },
+    {
+        "section": "Programming",
+        "subsection": "HTML",
+        "url": "https://www.codecademy.com/learn/learn-html",
+        "description": "Course for learning HTML"
+    },
+    {
+        "section": "Programming",
+        "subsection": "HTML",
+        "url": "https://studio.code.org/docs/weblab/ol/",
+        "description": "Tool doc for html"
+    },
+    {
+        "section": "Programming",
+        "subsection": "HTML",
+        "url": "http://www.tizag.com/htmlT/",
+        "description": "Resource for learning HTML"
+    },
+    {
+        "section": "Fitness",
+        "subsection": "Martial Arts",
+        "url": "https://cdn.preterhuman.net/texts/survival/Aikido%20-%20Pressure%20Points.pdf",
+        "description": "Aikido"
+    },
+    {
+        "section": "Fitness",
+        "subsection": "Martial Arts",
+        "url": "https://cdn.preterhuman.net/texts/survival/Lee,%20Bruce%20-%20Jeet%20Kune%20Do.pdf",
+        "description": "Jeet kuun do"
+    },
+    {
+        "section": "Fitness",
+        "subsection": "Health",
+        "url": "https://www.eatbydate.com",
+        "description": "Food"
+    },
+    {
+        "section": "Fitness",
+        "subsection": "Health",
+        "url": "https://pastebin.com/V84Y0J9Y",
+        "description": "4chan pastebin for fitness"
+    },
+    {
+        "section": "Fitness",
+        "subsection": "Health",
+        "url": "https://pastebin.com/V84Y0J9Y",
+        "description": "4chan fit notes"
+    },
+    {
+        "url": "https://www.ftp.idu.ac.id/wp-content/uploads/ebook/tdg/",
+        "description": "FTP server for books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.ftp.idu.ac.id/wp-content/uploads/ebook/ip/",
+        "description": "FTP server, logistics books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.gutenberg.ca/ebooks/",
+        "description": "Book library",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.avalonlibrary.net/ebooks/",
+        "description": "List of ebooks",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.store.dockerme.ir/E-Book/",
+        "description": "Books on docker",
+        "section": "Books",
+        "subsection": "Select Subsection"
+    },
+    {
+        "url": "https://www.volthauslab.com/velebooks/",
+        "description": "Ebooks on robotics, electrons, biographies",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.robot.bmstu.ru/files/books/",
+        "description": "Robotics books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.cdn.preterhuman.net/texts/",
+        "description": "Archive, books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.pdfcookie.com/",
+        "description": "PDF website for books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.erewhon.superkuh.com/library/",
+        "description": "Standard subjects",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.index-of.es/Varios/",
+        "description": "Spanish site, books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.index-of.co.uk",
+        "description": "Programming books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.gutenberg.org/",
+        "description": "Project gutenberg",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.openlibrary.org/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.z-lib.org/",
+        "description": "Z library",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.pdfdrive.com/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.justinguitar.com/",
+        "description": "Learn songs just in guitar",
+        "section": "Music Learning",
+        "subsection": "Guitar"
+
+    },
+    {
+        "url": "https://www.ultimateguitar.com",
+        "description": "Learning with guitar",
+        "section": "Music Learning",
+        "subsection": "Guitar"
+ 
+    },
+    {
+        "url": "https://www.howtoplaypiano.ca",
+        "description": "Learn to play the piano",
+        "section": "Music Learning",
+        "subsection": "Piano"
+
+    },
+    {
+        "url": "https://www.teoria.com",
+        "description": "Piano learning",
+        "section": "Music Learning",
+        "subsection": "Piano"
+
+    },
+    {
+        "url": "https://www.namemytune.com/",
+        "description": "Get a tune by playing",
+        "section": "Music Learning",
+        "subsection": "Theory"
+
+    },
+    {
+        "url": "https://www.musictheory.net",
+        "description": "Understanding music theory",
+        "section": "Music Learning",
+        "subsection": "Theory"
+
     }
 ]
