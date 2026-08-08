@@ -156,7 +156,7 @@ class DirectoryManager:
 
         popup = tk.Toplevel(self.root)
         popup.title("Review & Process Staged Data")
-        popup.geometry("550x450")
+        popup.geometry("500x250")
         popup.grab_set()
 
         item = self.excel_queue[0]

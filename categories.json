@@ -5,7 +5,7 @@
   "Courses": ["Algorithms", "Coding", "CyberSecurity", "General List", "Languages", "Lists", "Plagarism", "Programming", "Systems", "Uni Courses"],
   "CyberSec": ["Articles", "Blue Team(defence)", "Cryptography", "Ethical Hacking", "Image Maps", "Learning", "People", "Privacy", "Red team(offense)", "Tools", "Tutorials", "Other"],
   "Excel": ["Help", "Tutorials", "Wildcards"],
-  "FileTypes": ["List"],
+  "FileTypes": ["List", "Conversion"],
   "Finance Jobs": ["Advice", "Applying", "Business", "Comparison", "Internships", "Investment", "Jobs", "Marketing", "Shopping"],
   "Fitness": ["Health", "Martial Arts", "Routines", "WellBeing"],
   "Games": ["Discovery", "DLC", "Emulation", "Manuals", "Mods", "Sites"],

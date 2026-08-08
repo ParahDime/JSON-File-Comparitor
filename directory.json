@@ -3688,5 +3688,1451 @@
         "description": "US police search warrant over keywords",
         "section": "CyberSec",
         "subsection": "Articles"
+    },
+    {
+        "url": "https://www.telegraph.co.uk/news/2023/05/21/britain-is-writing-the-playbook-for-dictators/",
+        "description": "",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.github.com/jivoi/awesome-osint",
+        "description": "OSINT lint repository - used in pen testing",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.coveryourtracks.eff.org/learn",
+        "description": "See how browsers target you",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/?sf177663305=1",
+        "description": "Article about tracking in emails",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+        "description": "Build a VPN",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.Privacyguides.org",
+        "description": "Guides on privacy",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "http://www.pimeyes.com/",
+        "description": "Check if likeness is used elsewhere",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.bugmenot.com/",
+        "description": "Proxy inputs",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.yourdigitalrights.org/",
+        "description": "Learn about your digital rights",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.reddit.com/r/hacking/comments/13u79s5/researchers_found_that_inconspicuous_smartphone/",
+        "description": "Smartphone identifiers",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.cisa.gov/uscert/sites/default/files/publications/DisposeDevicesSafely.pdf",
+        "description": "Data disposal in hardware",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-88r1.pdf",
+        "description": "Guide for media sanitsation? Data sanitsation",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.fbi.gov/file-repository/disposal-of-media-policy-and-procedures.pdf",
+        "description": "How to correctly dispose of media (files)",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=en",
+        "description": "Create custom blacklists",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.blog.torproject.org/what-tor-supporter-looks-edward-snowden/",
+        "description": "Tor and privacy supporter",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.support.discord.com/hc/en-us/articles/360004957991",
+        "description": "Discord data that\u2019s collected",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.crypto101.io/",
+        "description": "Cryptography course",
+        "section": "CyberSec",
+        "subsection": "Cryptography"
+    },
+    {
+        "url": "https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/",
+        "description": "Article on cryptography",
+        "section": "CyberSec",
+        "subsection": "Cryptography"
+    },
+    {
+        "url": "https://www.simplilearn.com/ethical-hacking-course-free-beginners-skillup",
+        "description": "Beginning ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files",
+        "description": "Pentest sites for hidden directories",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.noobsec.net/starting-point/",
+        "description": "Blog for ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.hackerone.com/hacktivity",
+        "description": "Pentesting",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.tutsnode.com/",
+        "description": "Ethical hacking course",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.mattfrisbie.substack.com/p/spy-chrome-extension",
+        "description": "Create cybersec chrome ext",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "http://www.willgenovese.com/cracking-zynga/",
+        "description": "Hashcat guide",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.reddit.com/r/hacking/comments/z4dzxf/anyone_learning_ethical_hacking_as_a_hobby/",
+        "description": "Learn ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.guru99.com/ethical-hacking-tutorials.html",
+        "description": "Tutorials",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.academy.hackthebox.eu/",
+        "description": "Hack the box",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "http://www.index-of.es/Videos/Ethical-Hacking-Training/",
+        "description": "Ethical hacking training",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.pdfdrive.com/black-hat-python-python-programming-for-hackers-and-pentesters-e158527426.html",
+        "description": "Book on black hat hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.pdfdrive.com/black-hat-go-go-programming-for-hackers-and-pentesters-1-no-starch-press-2020-e200839486.html",
+        "description": "Book for ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.pdfdrive.com/gray-hat-hacking-the-ethical-hackers-handbook-e185925559.html",
+        "description": "Book for ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.hackingarticles.in/docker-for-pentester-pentesting-framework/",
+        "description": "Pentesting framework",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.hackingarticles.in/ssh-penetration-testing-port-22/",
+        "description": "SSH pen testing",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.hackingarticles.in/remote-desktop-penetration-testing-port-3389/",
+        "description": "Remote desktop pen testing article",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.codelivly.com/web-pen-testing-101-the-ultimate-starters-guide/",
+        "description": "Web pen testing guide",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.null-byte.wonderhowto.com/forum/hack-cctv-private-cameras-0159437/",
+        "description": "Hacking security cameras",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.hackmag.com/coding/diy-keylogger/",
+        "description": "Build a keylogger",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.vinsloev.medium.com/python-cybersecurity-network-tracking-using-wireshark-and-google-maps-2adf3e497a93",
+        "description": "Python based cybersec",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.securityweek.com/cisa-says-hackers-exploited-big-ip-vulnerability-attacks-us-government/",
+        "description": "IP vulns",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.mojoauth.com/blog/what-is-credential-stuffing/",
+        "description": "Credential stuffing",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.xalgord.in/bit-stuffing-in-computer-networks/",
+        "description": "Bit stuffing",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.theregister.com/2023/03/01/blacklotus_malware_eset/",
+        "description": "Bypass secure boot",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/synthetic-identity-theft/",
+        "description": "Synthetic identify theft",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.hackingarticles.in/lateral-movement-pass-the-ccache/",
+        "description": "pass the ccache attack",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.hackingarticles.in/lateral-movement-pass-the-ticket-attack/",
+        "description": "pass the ticket attack",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.hackingarticles.in/lateral-movement-pass-the-hash-attack/",
+        "description": "pass the hash attack",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.hackingarticles.in/lateral-movement-over-pass-the-hash/",
+        "description": "lat movement with pass the hash",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.thehackernews.com/2023/05/dont-click-that-zip-file-phishers.html",
+        "description": "weaponising zip file phishing",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.tomsguide.com/us/home-router-security,news-19245.html",
+        "description": "Network security",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.hackingarticles.in/anti-forensic-swipe-footprint-with-timestomp/",
+        "description": "Timestomp (anti forensic) article",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.hackingarticles.in/usb-forensics-detection-investigation/",
+        "description": "USB forensics article",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.vivirenremoto.github.io/doomcv/en.html",
+        "description": "Capcha process & github",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.vivirenremoto.github.io/doomcaptcha/",
+        "description": "Doom captcha",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.reddit.com/r/webdev/comments/1458sly/how_would_you_implement_a_honeypot_field/",
+        "description": "How to implement honeypot",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann",
+        "description": "How microsoft signatures are broken",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.cybergeeks.tech/how-to-expose-a-potential-cybercriminal-due-to-misconfigurations/",
+        "description": "Exposing cyber criminals",
+        "section": "CyberSec",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.hackingarticles.in/docker-privilege-escalation/",
+        "description": "Privilege escalation with docker",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.hackingarticles.in/android-application-framework-beginners-guide/",
+        "description": "Beginners guide to android",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.djharper.dev/post/2020/12/26/executable-pngs/",
+        "description": "Executable pngs",
+        "section": "CyberSec",
+        "subsection": "Red team(offense)"
+    },
+    {
+        "url": "https://www.offensive-security.com/",
+        "description": "",
+        "section": "CyberSec",
+        "subsection": "Red team(offense)"
+    },
+    {
+        "url": "https://www.overthewire.org/wargames/",
+        "description": "Blue team (defensive) hacking",
+        "section": "CyberSec",
+        "subsection": "Blue Team(defence)"
+    },
+    {
+        "url": "https://www.shop.hak5.org/",
+        "description": "Offensive pentesting store",
+        "section": "CyberSec",
+        "subsection": "Red team(offense)"
+    },
+    {
+        "url": "https://www.blackhillsinfosec.com/",
+        "description": "Offensive pentesting store",
+        "section": "CyberSec",
+        "subsection": "Red team(offense)"
+    },
+    {
+        "url": "https://www.guidedhacking.com/threads/top-5-living-off-the-land-attack-tools-red-teaming.20504/",
+        "description": "Living off the land attacks",
+        "section": "CyberSec",
+        "subsection": "Red team(offense)"
+    },
+    {
+        "url": "https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free",
+        "description": "Free courses for cybersec",
+        "section": "Courses",
+        "subsection": "CyberSecurity"
+    },
+    {
+        "url": "https://www.sans.org/uk/",
+        "description": "Cyber security certs",
+        "section": "Courses",
+        "subsection": "CyberSecurity"
+    },
+    {
+        "url": "https://www.infocon.org/",
+        "description": "Hacking audio tutorials",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.blog.vonahi.io/when-the-path-to-system-is-wide-open/",
+        "description": "DLL hijacking tutorial",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.stackoverflow.com/questions/6465526/capture-any-kind-of-keystrokes-aka-keylogger-preferably-c-sharp-net-but-any",
+        "description": "Understand keyloggers",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.thezerohack.com/how-i-might-have-hacked-any-microsoft-account",
+        "description": "Microsoft account hack exploit explained",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1hvVcEhcbLM",
+        "description": "Linux for infosec",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=U_P23SqJaDc",
+        "description": "Cybersec full course",
+        "section": "Courses",
+        "subsection": "CyberSecurity"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=lZAoFs75_cs",
+        "description": "Linux for ethical hackers",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=fNzpcB7ODxQ",
+        "description": "Ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cx6Xs3F_1Uc",
+        "description": "SQL injection",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VQTQ0VaIXF0",
+        "description": "IOS hacking",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=2zqSuE83oUM",
+        "description": "Hacking tutorials",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=7U-RbOKanYs",
+        "description": "Hacking cracking",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1ffv507slWM",
+        "description": "ex NSA explains how to get into hacking",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/channel/UCb6kvLtSv54WSr-nNlOF4cA",
+        "description": "Basics of cybersec",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/playlist?list=PLKON6-Pw2Rdm0ODF5U90eBPOVF84lBTrb",
+        "description": "Cybersec playlist",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3yiT_WMlosg",
+        "description": "Wifi and bluetooth sec",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=SaLDKRtWYyk&list=PLvQMiI4QwvHQny_60C5Ofqsom1RFmr2k1",
+        "description": "Buildign secure networks playlist",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=T1QEs3mdJoc",
+        "description": "Stealing cookies",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uXpjBFkXq8o",
+        "description": "Pen testing home lab",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.hackingarticles.in/docker-for-pentester-abusing-docker-api/",
+        "description": "Abusing Docker API",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.github.com/3ct0s/whatsapp_hack",
+        "description": "Whatsapp hack",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtu.be/qnVg9cRhjsE",
+        "description": "Whatsapp hack",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=g73Lkv3-MbA&list=PLWNzM6-hKsYXa2I1efofiQbP4zFGOxc5n&index=1",
+        "description": "Tutorials",
+        "section": "CyberSec",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/@DEFCONConference",
+        "description": "DEFCONConference",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/@LiveOverflow",
+        "description": "Liveoverflow",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/@HackerWarehouse",
+        "description": "hacker warehouse",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/@KindredSecurity",
+        "description": "kindred security",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/@BugBountyReportsExplained",
+        "description": "Bug bounty reports explained",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.twitter.com/AccidentalCISO",
+        "description": "Accidental CISO",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/channel/UCTeJ9M-akmad6CZ8jzvF-Xw",
+        "description": "Pen testing",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/user/Computerphile",
+        "description": "Computerphile",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.twitter.com/jeremiahg",
+        "description": "Jeremiah Grossman",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.cl.cam.ac.uk/~rja14/",
+        "description": "Ross Anderson",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.nist.gov/people/ronald-s-ross",
+        "description": "Ron Ross",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.linkedin.com/in/jinan-budge-2898132/",
+        "description": "Jinan Budge (Analyst at Forrester)",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.twitter.com/patrickwardle",
+        "description": "Patrick Wardle",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/playlist?list=PLW5y1tjAOzI0Sx4UU2fncEwQ9BQLr5Vlu",
+        "description": "Threatwire",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.linkedin.com/in/elanwright/",
+        "description": "Elan Wright",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.twitter.com/HackingDave",
+        "description": "Dave Kennedy",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.trustedsec.com/events/",
+        "description": "TrustedSec",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.twitter.com/Jhaddix",
+        "description": "Jason Haddix",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.sans.org/profiles/ed-skoudis/",
+        "description": "Ed Skoudis",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.youtube.com/c/STOKfredrik/featured",
+        "description": "STOK",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.youtube.com/c/HackerSploit/featured",
+        "description": "Hackersploit",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.twitter.com/strandjs",
+        "description": "John Strand",
+        "section": "CyberSec",
+        "subsection": "People"
+    },
+    {
+        "url": "https://www.stationx.net/reverse-shell-cheat-sheet/",
+        "description": "Reverse powershell cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltea7de5267932e94b/5eb08aafcf88d36e47cf0644/Cheatsheet_SEC301-401_R7.pdf",
+        "description": "Windows and Linux Terminals & Command Lines",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/security-assessment-report-cheat-sheet/",
+        "description": "Cybersecurity Assessment Report Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.wiki.sans.blue/Tools/pdfs/Get-WinEvent.pdf",
+        "description": "PowerShell Get-WinEvent",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.wiki.sans.blue/Tools/pdfs/PowerShell.pdf",
+        "description": "Powershell primer cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.wiki.sans.blue/Tools/pdfs/LinuxCLI.pdf",
+        "description": "Linux CLI",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.wiki.sans.blue/Tools/pdfs/LinuxCLI101.pdf",
+        "description": "Linux CLI",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/Ignitetechnologies/Mindmap/tree/main/Red%20Team%20Dorks",
+        "description": "Read team dorks",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/Ignitetechnologies/Mindmap/tree/main/Mitre%20Attack",
+        "description": "Linux attack",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.t.co/Fd8nuj975t",
+        "description": "",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/Ignitetechnologies/Mindmap/tree/main/Mimikatz",
+        "description": "mimikatz",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.sans.org/security-resources/posters/cloud/multicloud-cheat-sheet-215?msc=blog-ultimate-list-cheat-sheets\"",
+        "description": "Multicloud cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf\"",
+        "description": "Network map cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.pen-testing.sans.org/retrieve/netcat-cheat-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Netcat cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog",
+        "description": "Python 3 essentials",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt4e45e00c2973546d/5eb08aae4461f75d77a48fd4/WindowsCommandLineSheetV1.pdf",
+        "description": "Windows command line cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt0f228a4b9a1165e4/5ef3d602395b554cb3523e7b/pivot-cheat-sheet-v1.0.pdf",
+        "description": "Pivot cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf",
+        "description": "Scapy cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.pen-testing.sans.org/retrieve/windows-command-line-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Windows command line cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.pen-testing.sans.org/retrieve/misc-tools-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Misc tools cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Google hacking and defense cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blta6a2ae64ec0ed535/5eb08aaeead3926127b4df44/SMB-Access-from-Linux.pdf",
+        "description": "SMB access linux cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.pen-testing.sans.org/retrieve/windows-cheat-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Windows intrusion cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.pen-testing.sans.org/retrieve/linux-cheat-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Linux intrusion cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd6fa777a3215f34a/5eb08aae08d37e6d82ef77fe/win2ksacheatsheet.pdf",
+        "description": "Windows 2000 intrusion cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Memory forensics cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Hex regex forensics cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733/5eb0940e248a28605479ccf0/FOR518_APFS_CheatSheet_012020.pdf",
+        "description": "FOR518 Mac & iOS HFS+ Filesystem Reference Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/community/cheat-sheets?msc=Cheat+Sheet+Blog",
+        "description": "DFIR Cheat Sheets",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/windows_to_unix_cheatsheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Windows to unix cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/Plaso-Cheat-Sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Plaso filtering cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Eric zimmermans tools cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/cheat-sheets/",
+        "description": "Information Security Assessment RFP Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/sift_cheat_sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "SIFT Workstation Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/rekall-memory-forensics-cheatsheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Rekall Memory Forensics Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/malware-analysis-cheat-sheet.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Malware Analysis and Reverse-Engineering Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/security-incident-survey-cheat-sheet/",
+        "description": "Security Incident Survey Cheat Sheet for Server Administrators",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/ddos-incident-cheat-sheet/",
+        "description": "Network DDoS cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.imgur.com/gallery/U5jqgik",
+        "description": "Multiple cheat sheets",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.i.redd.it/fviaw8s43q851.jpg",
+        "description": "Hacking tools cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.i.redd.it/9bu827i9tr751.jpg",
+        "description": "Kali linux cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/",
+        "description": "Nmap cheat sheet + tips",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.highon.coffee/blog/lfi-cheat-sheet/",
+        "description": "PENTESTING LocalFileInclude Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.highon.coffee/blog/penetration-testing-tools-cheat-sheet/",
+        "description": "Penetration Testing Tools Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.highon.coffee/blog/reverse-shell-cheat-sheet/",
+        "description": "Reverse Shell Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.highon.coffee/blog/nbtscan-cheat-sheet/",
+        "description": "nbtscan Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.highon.coffee/blog/linux-commands-cheat-sheet/",
+        "description": "Linux Commands Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+        "description": "Active-Directory-Exploitation-Cheat-Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/rshipp/awesome-malware-analysis",
+        "description": "Malware tools and resources",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/analyzing-malicious-documents/",
+        "description": "Analyzing Malicious Documents Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png",
+        "description": "ReverseEngineering Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltf146e4f361db3938/5e34a7bc946d717e2eab6139/power-shell-cheat-sheet-v41.pdf",
+        "description": "Powershell Cheat Sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/security-architecture-cheat-sheet/",
+        "description": "Security Architecture Cheat Sheet for Internet Applications",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/Ignitetechnologies/Privilege-Escalation",
+        "description": "Privilege-Escalation: This cheasheet is aimed at the CTF Players",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "http://www.pentestmonkey.net/category/cheat-sheet/sql-injection",
+        "description": "SQL Injection cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog",
+        "description": "TCP/IP and tcpdump",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.sans.org/security-resources/ipv6_tcpip_pocketguide.pdf?msc=Cheat+Sheet+Blog",
+        "description": "IPv6 Pocket Guide",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Analyzing Malicious Documents",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/SQlite-PocketReference-final.pdf?msc=Cheat+Sheet+Blog",
+        "description": "SQlite Pocket Reference Guide",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/linux-shell-survival-guide.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Linux Shell Survival Guide",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.zeltser.com/human-communications-cheat-sheet/",
+        "description": "Human communication cheat sheet",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/",
+        "description": "TONS of cheat sheets",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf?msc=Cheat+Sheet+Blog",
+        "description": "Tips for Reverse-Engineering Malicious Code",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.digital-forensics.sans.org/media/remnux-malware-analysis-tips.pdf?msc=Cheat+Sheet+Blog",
+        "description": "REMnux Usage Tips for Malware Analysis on Linux",
+        "section": "CyberSec",
+        "subsection": "Image Maps"
+    },
+    {
+        "url": "https://www.github.com/wuseman/EMAGNET",
+        "description": "Capture passwords + names from leaked DBs",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/snooppr/snoop",
+        "description": "Snoopr(Social media account searcher)",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/przemyslawzaworski/CPP-Programming/blob/master/Tools/registry.cpp",
+        "description": "A basic keylogger",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.reddit.com/r/opendirectories/comments/hit6r1/gdbypass_a_google_drive_copy_and_download_website/",
+        "description": "Drive by download a website",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.medium.com/manishmshive/10-tools-you-should-know-as-a-cybersecurity-engineer-3b9809c7bbc2",
+        "description": "10 tools for cybersec engineers",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.medium.com/exploitable/10-tools-you-should-know-as-a-cybersecurity-engineer-3b9809c7bbc2",
+        "description": "10 tools you should know",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/RuedigerMoeller/fast-serialization/wiki/",
+        "description": "Fast serialisation",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/romix/java-concurrent-hash-trie-map",
+        "description": "Hash map implementation",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.vj0shii.info/",
+        "description": "multi factor auth bypass with password reset function",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.kitploit.com/2023/06/forensia-anti-forensics-tool-for-red.html",
+        "description": "Anti forensics kit",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hackingarticles.in/android-penetration-testing-drozer/",
+        "description": "Drowzer for android",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hackingarticles.in/android-penetration-testing-frida/",
+        "description": "Frida for android",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hackingarticles.in/android-pentest-automated-analysis-using-mobsf/",
+        "description": "MobSF for android",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hackingarticles.in/docker-for-pentester-image-vulnerability-assessment/",
+        "description": "Image vuln assessment",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hackmehardware.mailchimpsites.com/",
+        "description": "Dedicated to cracking hardware",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/ciphey/ciphey",
+        "description": "decrypt all files",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.wireshark.org/download.html",
+        "description": "See movement on network",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.cryptool.org/",
+        "description": "Basics of cybersec",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hashcat.net/hashcat/",
+        "description": "Test password strength",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/DoubleThreatSecurity/Espionage",
+        "description": "Packet sniffer",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.anonfiles.com/JbJ3o991p2/Alastor_py",
+        "description": "Python DDOS tool",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/mxrch/GHunt",
+        "description": "Extract info from a google acc",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/gchq/CyberChef",
+        "description": "Encryption, coding, analysis",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TtTOp-o-TOs",
+        "description": "OSINT tools w/passport and photo",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.github.com/Jpinsoft/DeepSound",
+        "description": "Stenography tools",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.whatsapp.checkleaked.cc/",
+        "description": "Get whatsapp profile info",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.fakenamegenerator.com/",
+        "description": "Identity generator",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.this-person-does-not-exist.com/en",
+        "description": "Identity generator",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.coveryourtracks.eff.org/",
+        "description": "Track your digital footprint",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.elfqrin.com/",
+        "description": "Fun site around sec",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.privacyinternational.org/campaigns/freetoprotest",
+        "description": "Police involvement in protests",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.en.wikipedia.org/wiki/Robots_exclusion_standard",
+        "description": "Robot exclusion standard",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.hxxp://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad[.]onion/api",
+        "description": "Blackcat API",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.pdfdrive.com/excel-2019-all-in-one-for-dummies-e196877367.html",
+        "description": "Excel for dummies",
+        "section": "Excel",
+        "subsection": "Help"
+    },
+    {
+        "url": "https://www.howtogeek.com/828275/how-to-link-to-another-sheet-in-microsoft-excel/",
+        "description": "",
+        "section": "Excel",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173",
+        "description": "",
+        "section": "Excel",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.support.microsoft.com/en-us/topic/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f",
+        "description": "",
+        "section": "Excel",
+        "subsection": "Help"
+    },
+    {
+        "url": "https://www.myonlinetraininghub.com/excel-shortcuts",
+        "description": "",
+        "section": "Excel",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+        "description": "",
+        "section": "Excel",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.morioh.com/p/dfada5967380?f=5c21fb01c16e2556b555ab32",
+        "description": "Automate Excel w python",
+        "section": "Excel",
+        "subsection": "Tutorials"
+    },
+    {
+        "url": "https://www.*",
+        "description": "Any X of chars",
+        "section": "Excel",
+        "subsection": "Wildcards"
+    },
+    {
+        "url": "https://www.S*n",
+        "description": "S x n",
+        "section": "Excel",
+        "subsection": "Wildcards"
+    },
+    {
+        "url": "www.hwww.twww.twww.pwww.swww.:www./www./www.?www.",
+        "description": "Specified amt",
+        "section": "Excel",
+        "subsection": "Wildcards"
+    },
+    {
+        "url": "https://www.S??n",
+        "description": "Soon not too soon",
+        "section": "Excel",
+        "subsection": "Wildcards"
+    },
+    {
+        "url": "https://www..csv",
+        "description": "Comma seperated values",
+        "section": "Excel",
+        "subsection": "Wildcards"
+    },
+    {
+        "url": "https://www.bat",
+        "description": "Batch executable file",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.bmp",
+        "description": "Bitmap image format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.cpp",
+        "description": "C++ file type (for holding code)",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.cs",
+        "description": "Csharp file type (for holding code)",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.css",
+        "description": "Cascading style sheet file (for editing HTML components",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.exe",
+        "description": "Executable file (executes a script inside the file",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.gif",
+        "description": "Moving image format (no sound)",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.html",
+        "description": "Webpage file format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.jpeg",
+        "description": "Joint Photographic Experts Group, support lossyand compression",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.js",
+        "description": "Javascript file type",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.mp3",
+        "description": "Sound format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.mp4",
+        "description": "Video Format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.pdf",
+        "description": "File format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.png",
+        "description": "Lossless image format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.py",
+        "description": "Python code file",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.rar",
+        "description": "Compressed file type",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.txt",
+        "description": "basic text file for text/code",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.vbs",
+        "description": "Visual basic file type",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.webm",
+        "description": "Audio visual format",
+        "section": "FileTypes",
+        "subsection": "List"
+    },
+    {
+        "url": "https://www.zip",
+        "description": "Compressed storage type file",
+        "section": "FileTypes",
+        "subsection": "List"
     }
 ]
