@@ -2,7 +2,7 @@
   "Art": ["Tutorials", "Creators", "Other"],
   "Books": ["Audiobooks", "Coding", "Directories", "Excel", "Finance", "Goodreads", "Improvement", "Languages", "Learning", "Manga", "Military", "NSFW", "Onion", "Other", "Software", "Summaries"],
   "Bots": ["Moderation", "Music", "Level Up", "Fun", "Bump", "Other"],
-  "Courses": ["Algorithms", "Coding", "CyberSecurity", "General List", "Languages", "Lists", "Programming", "Systems", "Uni Courses"],
+  "Courses": ["Algorithms", "Coding", "CyberSecurity", "General List", "Languages", "Lists", "Plagarism", "Programming", "Systems", "Uni Courses"],
   "CyberSec": ["Articles", "Blue Team(defence)", "Cryptography", "Ethical Hacking", "Image Maps", "Learning", "People", "Privacy", "Red team(offense)", "Tools", "Tutorials", "Other"],
   "Excel": ["Help", "Tutorials", "Wildcards"],
   "FileTypes": ["List"],

@@ -12,7 +12,7 @@ class DirectoryManager:
     def __init__(self, root):
         self.root = root
         self.root.title("Manual Link Directory Input")
-        self.root.geometry("600x400")
+        self.root.geometry("600x500")
 
         #JSON name files
         self.data_file = "directory.json"
@@ -186,7 +186,7 @@ class DirectoryManager:
         initial_sub = item['subsection'] if item['subsection'] else "Select Subsection"
         sub_var = tk.StringVar(value=initial_sub)
 
-        # Callback to update subsections when section changes
+        #Callback to update subsections when section changes
         def update_subsections(selected_section):
             sec_var.set(selected_section)
             sub_var.set("Select Subsection")
@@ -214,7 +214,7 @@ class DirectoryManager:
             for option in self.category_data[initial_sec]:
                 menu.add_command(label=option, command=lambda v=option: sub_var.set(v))
 
-        # --- ACTION BUTTON FUNCTIONS ---
+        #Commit item
         def commit_and_next():
             raw_url = p_url_entry.get().strip()
             if not raw_url:
@@ -236,7 +236,7 @@ class DirectoryManager:
             if matches and not self.show_matches_popup(matches):
                 return
 
-            # Save approved item to main database
+            #Save item to directory.json
             new_entry = {
                 "url": norm_url,
                 "description": p_desc_entry.get("1.0", tk.END).strip(),
@@ -247,7 +247,7 @@ class DirectoryManager:
             with open(self.data_file, 'w') as f:
                 json.dump(data, f, indent=4)
 
-            # Delete from queue.json disk file
+            #Delete from queue.json
             self.remove_from_queue_disk(0)
 
             self.refresh_recent()
@@ -258,7 +258,7 @@ class DirectoryManager:
             if self.excel_queue:
                 self.open_process_popup()
 
-        # Completely delete item from queue.json without saving to directory.json
+        # delete item from queue.json
         def discard_item():
             self.remove_from_queue_disk(0)
             self.update_process_button()
@@ -266,11 +266,11 @@ class DirectoryManager:
             if self.excel_queue:
                 self.open_process_popup()
 
-        # Close popup without deleting the current item from queue.json
+        #Close popup without deleting the current item from queue.json
         def skip_for_later():
             popup.destroy()
 
-        # --- POPUP BUTTON LAYOUT ---
+        #POPUP BUTTON LAYOUT
         btn_frame = tk.Frame(popup)
         btn_frame.pack(pady=15)
 

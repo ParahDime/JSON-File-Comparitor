@@ -1264,41 +1264,2429 @@
         "description": "Learn songs just in guitar",
         "section": "Music Learning",
         "subsection": "Guitar"
-
     },
     {
         "url": "https://www.ultimateguitar.com",
         "description": "Learning with guitar",
         "section": "Music Learning",
         "subsection": "Guitar"
- 
     },
     {
         "url": "https://www.howtoplaypiano.ca",
         "description": "Learn to play the piano",
         "section": "Music Learning",
         "subsection": "Piano"
-
     },
     {
         "url": "https://www.teoria.com",
         "description": "Piano learning",
         "section": "Music Learning",
         "subsection": "Piano"
-
     },
     {
         "url": "https://www.namemytune.com/",
         "description": "Get a tune by playing",
         "section": "Music Learning",
         "subsection": "Theory"
-
     },
     {
         "url": "https://www.musictheory.net",
         "description": "Understanding music theory",
         "section": "Music Learning",
         "subsection": "Theory"
-
+    },
+    {
+        "url": "https://www.bartleby.com",
+        "description": "Homework helper and textbook solutions",
+        "section": "Skills",
+        "subsection": "Self improvement"
+    },
+    {
+        "url": "https://www.librivox.org/",
+        "description": "Open source library",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.the-eye.eu/public/Books/Bibliotik/",
+        "description": "Directory (book section)",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.archive.org/",
+        "description": "Archive snapshot of the internet. (all categories)",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.library.za3k.com/",
+        "description": "Misc Books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.dl.novellibrary.com/",
+        "description": "List of ebooks",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.kevinluo.net/books/ebooks",
+        "description": "List of ebooks",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.publicbooks.org/public-books-database/",
+        "description": "Public books database",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.pauladaunt.com/books/",
+        "description": "Good books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.webdata.psru.ac.th/~pisut/tims%20file/dummies%20books/",
+        "description": "For dummies books",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.imsolost.com/books/",
+        "description": "For dummies books",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.libbyapp.com/",
+        "description": "US, requires library card",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.adrianwoon.com/adelinewoon.com/E-Books/",
+        "description": "E books list",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.dawnball.com/books/Books/",
+        "description": "Epub format",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.nvhrbiblio.nl/biblio/boek/",
+        "description": "Radio books?",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "http://www.lesatkins.com/books/epubfiles/",
+        "description": "Scifi and fantasy books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.ck12.org/",
+        "description": "AI Tutor",
+        "section": "Software",
+        "subsection": "AI"
+    },
+    {
+        "url": "http://www.libgen.rs/",
+        "description": "Library",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.pdfroom.com/",
+        "description": "PDF archive",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.lib.ysu.am/disciplines_bk/",
+        "description": "Russian books",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "http://www.libgen.lc/fiction0day/",
+        "description": "Libgen books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.superkuh.com/library/",
+        "description": "Books and Journals",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "http://www.library.ytit.uz/All-Books/",
+        "description": "Book archives",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.epubs.bibliotk.mx/epubReader/reader/files/",
+        "description": "Books? just a massive archive",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.openstax.org/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.madhur-ai.com/",
+        "description": "Books and audiobooks",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.ircambridge.com/books/",
+        "description": "English language books",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1bBw-Z8bkN95LJRO5V0HrFP4OyS23mzDh",
+        "description": "Premium books",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.library.lys.digital/register",
+        "description": "Requires registering",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.theswissbay.ch/pdf/Books/",
+        "description": "PDF book archive",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.grpl.org/",
+        "description": "US book library",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.github.com/SurjitSahoo/Calibre-Library",
+        "description": "Coding books Calibre",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.github.com/binism/Ebook",
+        "description": "Classic reads",
+        "section": "Books",
+        "subsection": "Goodreads"
+    },
+    {
+        "url": "https://www.archive.org/details/bannedbooks",
+        "description": "Archive of banned books",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.github.com/getify/You-Dont-Know-JS",
+        "description": "JS book series",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.ftp.mizar.org/pub/",
+        "description": "Coding books + networking",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B8EZX-tft3DaNjhUbGtRSkNSQlk?resourcekey=0-23-geaJG09HyIT2QfYnkAw",
+        "description": "Coding books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/mobile/folders/1F7D5c30nP-y_Q7SFqoRTRvJ7tl0UcY3q",
+        "description": "Books on hacking & cybersec",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.lost-contact.mit.edu/afs/adrake.org/usr/rkh/Books/books/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.188.213.134.229/dl/Programming%20Books/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.cesarkallas.net/arquivos/livros/informatica/",
+        "description": "old archive, programming books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.cse.unr.edu/~check/Sources/c++Tutorials/",
+        "description": "C++ books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.lira.epac.to/DOCS-TECH/",
+        "description": "Technology books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.dev.rbcafe.com/python/python-3.5.1-pdf/",
+        "description": "Python books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.webitcloud.net/ioEduc/drive/",
+        "description": "Coding cheat sheets books etc",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.ece.ubc.ca/~brucew/ebook/C++/",
+        "description": "C++ books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.slav0nic.org.ua/static/books/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.courses.coreservlets.com/Course-Materials/pdf/android/",
+        "description": "Android coding reading material",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.giove.isti.cnr.it/demo/",
+        "description": "Web backend",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.downloads.ruralsurvival.life/Computer%20Security/",
+        "description": "CompSec",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.slitherintopython.com/",
+        "description": "Python books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.kgay4all.com/seioqueseiporleroqueleio/",
+        "description": "Cybersec books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.bookauthority.org/books/new-cyber-security-books",
+        "description": "Cybersec books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.lira.epac.to/DOCS-TECH/Hacking/",
+        "description": "Hacking books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.edu.anarcho-copy.org/",
+        "description": "Pentesting books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.github.com/yangshun/front-end-interview-handbook",
+        "description": "Front end handbook",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B1Wzf8eTK3LTYWtqOGlnQldTV2c",
+        "description": "Linux books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.kgay4all.com/seioqueseiporleroqueleio/Books/Python/",
+        "description": "Python",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.inprogrammer.com/category/free-ebooks/",
+        "description": "Free ebooks",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.theinsaneapp.com/2021/01/free-programming-books.html",
+        "description": "",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.csgordon.github.io/books.html",
+        "description": "Compsci Textbooks",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.rgonzo.us/shiny/books/",
+        "description": "Compsci books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.commodore.bombjack.org/",
+        "description": "Old books + software",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.tcxsproject.com.br/dev/",
+        "description": "In spanish",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.users.softlab.ntua.gr/~sivann/books/",
+        "description": "Network Security books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.eccouncil.org/",
+        "description": "Info on ethical hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.ebookfoundation.github.io/free-programming-books/books/free-programming-books.html",
+        "description": "Ebook foundation, free programming books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.amazon.com/Virtual-Government-Control-Operations-America/dp/0922915458",
+        "description": "Coding book",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B7T1_yL7RJIabmFBdkdCci1aTzA?resourcekey=0-NRT40ihLkhp2sM6uLiVwLA",
+        "description": "Coding",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/",
+        "description": "Compsci Papers",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.gumroad.com/l/eARLn",
+        "description": "Books for java",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.github.com/oddsun/Free-Python-Books",
+        "description": "Python books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.blog.verzeo.com/best-python-books-for-beginners/",
+        "description": "Python books for beginners",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.pythonkitchen.com/legally-free-python-books-list/",
+        "description": "Python books",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.terrorgum.com/tfox/books/",
+        "description": "Coding, survival etc",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.playpen.icomtek.csir.co.za/~acdc/education/",
+        "description": "Educational bookss",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.textbookequity.org/",
+        "description": "Free college level textbooks",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.whatintheworld.xyz/",
+        "description": "Published papers",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.downloads.ruralsurvival.life/Farm%20Interest/",
+        "description": "Farming + interest",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.downloads.ruralsurvival.life/USA%20State%20Constitutions/",
+        "description": "US constitution",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B1W3DeV5S5BELXZRajkteW83WHM",
+        "description": "Head first programming",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B6hG9OOiP0g2Zkh4M2x3WnVJNWs",
+        "description": "Study books",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B4xFnW1qvXXgZnVkaUVEX2w4Zzg",
+        "description": "Banking",
+        "section": "Books",
+        "subsection": "Finance"
+    },
+    {
+        "url": "https://www.pdfdrive.com/category/5",
+        "description": "Technology",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.pdfdrive.com/category/6",
+        "description": "Academic",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.pdfdrive.com/category/14",
+        "description": "Science",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.siamcostumes.com/cutters_guides/pdf/",
+        "description": "Fashion",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.ns377932.ip-5-196-89.eu/freecomics/books/",
+        "description": "Economics",
+        "section": "Books",
+        "subsection": "Finance"
+    },
+    {
+        "url": "https://www.ipfs.io/ipfs/QmcG4W3LmD2cuWXWTrouG8fPdcReHZBSa9nTWepbuaWPxV",
+        "description": "AQA textbooks",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.dominikmatus.cz/files/",
+        "description": "Woodworking",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B3q9ZMSOj2NSa2syTzBZWVhDd28",
+        "description": "College textbooks",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.sachtienganhhn.net/",
+        "description": "ESL",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.tiendaeditorial.uca.es/descargas-pdf/",
+        "description": "Journals",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.105.235.201.125/",
+        "description": "Learning books",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B-psTXfaLD-HaTlPeUFtVjBsQzg",
+        "description": "Office and code (eng and indonesian)",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.zfelleg.useribm.hu/unsorted/ebooks/source/",
+        "description": "Books on all sorts",
+        "section": "Books",
+        "subsection": "Directories"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0BzQUrkcZOjAiYmQ0NTBjZmMtMDJjMS00OWViLTk0NWEtYTFhYzE2ZTZmYzdk",
+        "description": "Medical books",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B1k2RCDnejGvNFZWTWhJeDctWDQ",
+        "description": "MechEng",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.theswissbay.ch/pdf/Academia/",
+        "description": "Learning books",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.dl.fxf1.com/files/books/english/",
+        "description": "Stock market books",
+        "section": "Books",
+        "subsection": "Finance"
+    },
+    {
+        "url": "http://www.mim.ac.mw/books/",
+        "description": "Finance books",
+        "section": "Books",
+        "subsection": "Finance"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1MGuhR1RPnBlOPzlzZfkoCjXMM5BxrKLJ",
+        "description": "Self improvement",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.library.deep-blue-sea.net/",
+        "description": "Motivational",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.ebook-mecca.com/online/?ND",
+        "description": "Self help",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.hoopladigital.com/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.appp.me/7adOeG",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.goldenaudiobooks.com/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.acx.com/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.listenable.io/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.enkidulan.tk/p/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.drunkresearch.com/reference/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.freeclassicaudiobooks.com/audiobooks/authors/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=2hLxAdOra24",
+        "description": "How to do better at anything",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=shZuit6o_Hk",
+        "description": "How to analyse people on sight",
+        "section": "Books",
+        "subsection": "Audiobooks"
+    },
+    {
+        "url": "https://www.theswissbay.ch/pdf/Books/Survival/Survival/",
+        "description": "Survival books",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "http://www.downloads.ruralsurvival.life/Military%20Manuals/",
+        "description": "Military manuals",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.bulletpicker.com military books",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.archive.org/details/armchaircommando/0190201177WrongHandsPopularWeapons",
+        "description": "Paladin press",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.ftp.idu.ac.id/wp-content/uploads/ebook/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.archive.org/details/SoFjune1979Ocr_201807/SoF%201975-Summer%20%28Issue%201%29-ocr",
+        "description": "Soldier of fortune",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "http://www.survivorlibrary.com/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.nnty.fun/downloads/books/survivorlibrary/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.gooddebate.org/sin/mirror/library/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.cdn.preterhuman.net/texts/survival/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "http://www.exploremarmaris.com/read/Survival/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "http://www.mmc.geofisica.unam.mx/acl/Herramientas/",
+        "description": "Spanish programming books",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "https://www.dev.seperians.es/libros/",
+        "description": "Spanish",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "http://www.nube.burningthetowers.com/ebook/Ebook_informatica/",
+        "description": "Italian",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "http://www.doma.crazycz.net/ebooks/",
+        "description": "Czech books",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "http://www.bcub.ro/lib2life/",
+        "description": "Foreign books",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "https://www.cesad.ufs.br/ORBI/public/uploadCatalago/",
+        "description": "Portugese textbooks",
+        "section": "Books",
+        "subsection": "Languages"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HK5_xobq2HE",
+        "description": "Anarchists cookbook scrutiny",
+        "section": "Books",
+        "subsection": "Summaries"
+    },
+    {
+        "url": "https://www.actionablebooks.com/en-ca/summaries/",
+        "description": "Book summaries",
+        "section": "Books",
+        "subsection": "Summaries"
+    },
+    {
+        "url": "https://www.goodreads.com/",
+        "description": "Good reads",
+        "section": "Books",
+        "subsection": "Summaries"
+    },
+    {
+        "url": "https://www.twitter.com/PsycheWizard/status/1672847172860100608",
+        "description": "10 must read short books",
+        "section": "Books",
+        "subsection": "Summaries"
+    },
+    {
+        "url": "http://www.mangahasu.se/",
+        "description": "",
+        "section": "Books",
+        "subsection": "Manga"
+    },
+    {
+        "url": "https://www.en.m.wikipedia.org/wiki/Wikipedia:Database_download",
+        "description": "Wikipedia download",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "http://www.scans.cartago.nl/",
+        "description": "Pre 1600 books",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "http://www.cista.net/tomes/Somagetics/",
+        "description": "LSD MK Ultra",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.wattpad.com/",
+        "description": "Fan written stories",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.reddit.com/r/opendirectories/comments/k56scn/kmart_tape_collection/",
+        "description": "Occult books",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "http://www.index-of.es/z0ro-Repository-3/",
+        "description": "Conspiracy",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1uxzlJXXzcZ_bNsrPwhhko5QI_I44LOLj?usp=sharing Horror/",
+        "description": "Dark fantasy",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "http://www.malletmark.com/DND/",
+        "description": "DnD book",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.pdfdrive.com/trump-the-art-of-the-deal-d33446165.html",
+        "description": "The art of the deal",
+        "section": "Books",
+        "subsection": "Finance"
+    },
+    {
+        "url": "https://www.books.google.co.uk/books?id=-L8GtJY_J00C&pg=PA664&lpg=PA664&dq=bdsm+interrogation+book&source=bl&ots=ufA77KDMY-&sig=ACfU3U1L0kBQOaa2e3KZTnO2ZcdadsFYiA&hl=en&sa=X&ved=2ahUKEwj4u-m94-_pAhWjonEKHUx4BNk4ChDoATAFegQICxAB#v=onepage&q=bdsm%20interrogation%20book&f=false",
+        "description": "NSFW Books",
+        "section": "Books",
+        "subsection": "NSFW"
+    },
+    {
+        "url": "https://www.sci-hub.tf/",
+        "description": "Unlock journals",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.ecolo.org/documents/documents_in_english/",
+        "description": "Nuclear power documents",
+        "section": "Books",
+        "subsection": "Military"
+    },
+    {
+        "url": "https://www.hwinfo.com/Chernobyl/",
+        "description": "Files on chernobyl nuclear power",
+        "section": "Books",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.planetofthepaul.com/wikipedia-download-usb-flash/",
+        "description": "Wikipedia Database",
+        "section": "Books",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.dyno.gg",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Moderation"
+    },
+    {
+        "url": "https://www.mee6.xyz",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Moderation"
+    },
+    {
+        "url": "https://www.http://nadeko.bot/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Moderation"
+    },
+    {
+        "url": "https://www.notsobot.com/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Moderation"
+    },
+    {
+        "url": "https://www.unbelievaboat.com/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Moderation"
+    },
+    {
+        "url": "www.https://www.https://yagpdb.xyz/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Moderation"
+    },
+    {
+        "url": "https://www.groovy.bot/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Music"
+    },
+    {
+        "url": "https://www.fredboat.com/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Music"
+    },
+    {
+        "url": "https://www.rythmbot.co/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Music"
+    },
+    {
+        "url": "https://www.top.gg/bot/pancake",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Level Up"
+    },
+    {
+        "url": "https://www.amaribot.com/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Level Up"
+    },
+    {
+        "url": "https://www.ayana.io/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.dankmemer.lol/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.discorddungeons.me/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.top.gg/bot/mantaro",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.top.gg/bot/miki",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.top.gg/bot/owo",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.top.gg/bot/705016654341472327",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.tatsu.gg/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.disboard.gg",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.discord.me",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.discordservers.com",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.discordlist.me",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.top.gg/bot/398601531525562369",
+        "description": "Partnerbot",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.top.gg/bot/491769129318088714",
+        "description": "Discord stats",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.carbonitex.net/discord/bot",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Bump"
+    },
+    {
+        "url": "https://www.altdentifier.com/",
+        "description": "Altdentifier",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.top.gg/bot/412006490132447249",
+        "description": "Music Database",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.discord.bots.gg/bots/80528701850124288",
+        "description": "Starbot",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.ygg.fun/",
+        "description": "",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.discord.com/developers/docs/topics/community-resources",
+        "description": "Resources for making a bot",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.github.com/justadudewhohacks/face-api.js/",
+        "description": "Facial Recognition Discord",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.dev.to/en3sis/advanced-discord-js-custom-embeds-using-attachments-2bpn discord",
+        "description": "Custom emotes w bot",
+        "section": "Bots",
+        "subsection": "Fun"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=SPTfmiYiuok",
+        "description": "Code a discord bot (python)",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.reddit.com/r/csMajors/comments/jb4idf/i_created_a_free_chat_bot_that_gives_access_to/",
+        "description": "Discord bot for CS questions",
+        "section": "Bots",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.commodious.co.uk/",
+        "description": "Online health and safety training",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.youtube.com/playlist?list=PLu7cY2CPiRjV1JyW6XuwSSTV3gFEhnvPF",
+        "description": "Matter and energy playlist",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.theoreticalminimum.com/courses",
+        "description": "Physics",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ?fbclid=IwAR2QBcrO-LcQ0yUhRkhFRoGE3J5PMoPf9f6S30AsndUFBHGvVUkFa2WBIGo",
+        "description": "List of coding/business courses",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.docs.google.com/document/d/1W67RZtX3FUGxyKHFrLRjy04zi15pKkgXkBfsg1EB6Bs/edit",
+        "description": "Standard learning",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.edx.org/",
+        "description": "Online courses (paid)",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.udacity.com/",
+        "description": "Learn tech skills",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.coursera.org/",
+        "description": "Online courses, mainly coding based",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.alison.com/",
+        "description": "Online courses with certs",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.maximisetraining.com/distance-learning",
+        "description": "Free UK courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "http://www.academicearth.org/",
+        "description": "Free Uni courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.linkedin.com/learning/",
+        "description": "LinkedIn learning",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.github.com/cloudcommunity/Free-Certifications",
+        "description": "Free certifications on courses",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/new-online-courses/",
+        "description": "Online coding courses",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.docs.google.com/spreadsheets/d/1NS3giikkCdSQwT8IaXgMrRsaQob16HY_mPTzAfvdinY/edit?usp=sharing",
+        "description": "Links to coding, courses, music, etc",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "http://www.oli.cmu.edu/learn-with-oli/see-our-free-open-courses/",
+        "description": "OU Courses",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.ksumsc.com/download_center/",
+        "description": "King Suad Medical Centre Surgeon course",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.educative.io/",
+        "description": "Learning valuable skills",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "http://www.openculture.com/freeonlinecourses",
+        "description": "Free online courses",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.academy.hubspot.com/",
+        "description": "Marketing",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.managers.org.uk/",
+        "description": "Managerial quals",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.join.teamtreehouse.com/",
+        "description": "Video and design",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.udemy.com/",
+        "description": "Udemy courses and certs",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.coursetime.net/",
+        "description": "free coupons",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.idownloadcoupon.com",
+        "description": "Free coupons",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "http://www.0x0.st/-dKG.txt",
+        "description": "Linkedin courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "http://www.s28.bitdl.ir/Video/",
+        "description": "Linkedin learning",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.khanacademy.com",
+        "description": "Khan academy academic courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.coursebuffet.com/",
+        "description": "List of courses for free",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.ihasco.co.uk/",
+        "description": "Online training courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.classcentral.com/",
+        "description": "Specific free courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.simplilearn.com/",
+        "description": "Simple learning courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B079Cm0MfQeyS3R5cHVnb2RVUU0",
+        "description": "Banking exam prep papers",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B8CnCCd60bnzM3VSWFhKZ2Rzc2s",
+        "description": "Awareness in banking",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B-M90IqpPfRHNXZ6SkdMQlZOUkk",
+        "description": "Digital marketing udemy",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B5eJ2fw2iba1UlZna0FUWXF4UFU",
+        "description": "Lynda",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B1_NUA4_UggJYUIwc09LX1dfcDA",
+        "description": "English grammar",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B0TIoKgqQ9p5WC1pV2I0aHlKamc",
+        "description": "Arduino step by step",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B2jZERjUXCHhZnB5T0tpY2ZyRmc",
+        "description": "GMAT, GRE, TOEFL, IELTS & LSAT",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.freecoursesinengland.co.uk/",
+        "description": "Free courses in england (subject to availability)",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.bachelorstudies.com/",
+        "description": "Search for uni program",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.freelearninglist.org",
+        "description": "List of content",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.consensus.app",
+        "description": "Use AI to search for solution (research)",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.classcentral.com/report/harvard-cs50-cybersec-sql/#free-certificate",
+        "description": "SQL free cert",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "description": "HTML CSS",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.scaler.com/topics/course/javascript-beginners/",
+        "description": "Javascript",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.scaler.com/topics/course/sql-using-mysql-course/",
+        "description": "MySQL",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.cs50.harvard.edu/python/",
+        "description": "Python",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.learn.mongodb.com/learning-paths/introduction-to-mongodb",
+        "description": "MongoDB",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.scaler.com/topics/course/nodejs/",
+        "description": "Node JS",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.upgrad.com/gb/free-courses/",
+        "description": "React",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.scaler.com/topics/course/java-beginners/",
+        "description": "Java",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/training/paths/intro-to-vc-git/",
+        "description": "Git",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.learn.saylor.org/course/view.php?id=66",
+        "description": "Data Structures",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.cs50.harvard.edu/sql/2023/",
+        "description": "SQL",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gTVpBbFWry8",
+        "description": "Chrome devtools",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=10PbGbTUSAg",
+        "description": "Amazon AWS course",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.edx.org/course/data-science-visualization data science visualisation",
+        "description": "Data science visualisation",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.edx.org/course/data-science-probability",
+        "description": "Data science probability",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.kaggle.com/learn/data-cleaning",
+        "description": "Cleaning data/prep",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.openclassrooms.com/en/courses/7434291-create-dashboards-with-powerbi",
+        "description": "Make dashboard with Power BI",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.openclassrooms.com/en/courses/5873606-create-dashboards-with-tableau",
+        "description": "Make dashboard with Tableau",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.coursera.org/professional-certificates/google-it-support",
+        "description": "Basics of computers",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zJSY8tbf_ys",
+        "description": "Front end dev course",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/free-webdev-bootcamp/",
+        "description": "Webdev bootcamp",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.classcentral.com/report/stanford-on-campus-courses/",
+        "description": "150+ compsci courses",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.theclickreader.com/courses/time-series-forecasting-with-tensorflow-2-0/",
+        "description": "Deep learning",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.pythoncoursesonline.com/certificate-google-it-automation/",
+        "description": "Python automation",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
+        "description": "Deep learning",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/",
+        "description": "MS data analytics",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/",
+        "description": "MS prep data for analysis",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/training/paths/model-power-bi/",
+        "description": "Model data with Power BI",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/training/paths/visualize-data-power-bi/",
+        "description": "Visualise data with Power BI",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/training/paths/perform-analytics-power-bi/",
+        "description": "Data analysis with Power BI",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course",
+        "description": "machine learning course",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript",
+        "description": "Learn javascript",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.developers.google.com/edu/python",
+        "description": "Google python class",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python",
+        "description": "Data science python",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.cloudskillsboost.google/course_templates/153",
+        "description": "Google cloud fundamentals",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.cloudskillsboost.google/quests/23",
+        "description": "Google cloud essentials",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.cloudskillsboost.google/quests/34",
+        "description": "Baseline in ML",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0ByWO0aO1eI_MV0lhX1dkUlQ3YUk",
+        "description": "PHP development",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.edx.org/course/introduction-to-computer-science-and-programming-7",
+        "description": "Intro to compsci",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.coursera.org/learn/python",
+        "description": "Python",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
+        "description": "compsci course",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+        "description": "",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.academictorrents.com/browse.php?cat=7&page=0",
+        "description": "Courses for learning",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.edx.org/?source=aw&awc=6798_1634161312_6a6e881d296c42e3a2bdf2c05d8484c7&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=414309_Learn+to+Code+With+Me+LLC",
+        "description": "Learn different courses",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.code.org/learn",
+        "description": "Learn to code",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.grow.google/certificates/",
+        "description": "Google with certificates",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.laconicml.com/computer-science-engineer-mit-university/",
+        "description": "Uni level compsci (free)",
+        "section": "Courses",
+        "subsection": "Systems"
+    },
+    {
+        "url": "https://www.edx.org/course/computer-science-101/",
+        "description": "Compsci from harvard",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.info.learningpeople.com/",
+        "description": "IT Skills",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/0B3LfaGUUk6tiT18xZDRBY1FCVXc",
+        "description": "HTML essentials",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalgarage",
+        "description": "Digital skills",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VyWAvY2CF9c",
+        "description": "Deep learning",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WnMQ8HlmeXc",
+        "description": "UML",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
+        "description": "Devops for beginners",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/cs50-introduction-computer-science?delta=0\u2026",
+        "description": "Computer Science Harvard",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/cs50s-introduction-programming-scratch?delta=0\u2026",
+        "description": "Programming w Scratch Harvard",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0\u2026",
+        "description": "Web programming python javascript Harvard",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0",
+        "description": "AI Harvard",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.edx.org/course/cs50s-introduction-to-programming-with-python",
+        "description": "Intro to python Harvard",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/cs50s-mobile-app-development-react-native?delta=0",
+        "description": "Mobile dev react native Harvard",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/introduction-data-science-python?delta=0",
+        "description": "Data Science Harvard",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.pll.harvard.edu/course/cs50s-introduction-game-development?delta=0",
+        "description": "Game dev Harvard",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python",
+        "description": "MIT intro compsci",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.edx.org/learn/data-science/massachusetts-institute-of-technology-understanding-the-world-through-data",
+        "description": "MIT understanding data",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications",
+        "description": "MIT data analysis",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science",
+        "description": "MIT intro to data science",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.edx.org/learn/engineering/purdue-university-introduction-to-deep-learning-2",
+        "description": "MIT intro to deep learning",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "description": "Stanford machine learning",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.cs50.harvard.edu/cybersecurity/2023/",
+        "description": "Harvard cybersec course",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.edx.org/learn/computer-science/stanford-university-computer-science-101",
+        "description": "Stanford computer science 101",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.learn.nvidia.com/en-us/training/self-paced-courses",
+        "description": "NVIDIA courses",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.mitxonline.mit.edu/",
+        "description": "MIT learning courses online",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.aws.amazon.com/training/",
+        "description": "AWS training courses",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.coursera.org/learn/algorithms-part1",
+        "description": "",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.coursera.org/learn/algorithms-part2",
+        "description": "",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=fAAZixBzIAI",
+        "description": "Binary tree",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=l7-f9gS8VOs",
+        "description": "Sorting",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zg9ih6SVACc",
+        "description": "Data structures",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.simplilearn.com/learn-machine-learning-algorithms-free-course-skillup",
+        "description": "ML algorithms",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "http://www.khanacademy.org/computing/computer-science/algorithms",
+        "description": "Khan academy algorithms",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.bogotobogo.com/Algorithms/",
+        "description": "Algorithms course",
+        "section": "Courses",
+        "subsection": "Algorithms"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1DvTwuByjo0",
+        "description": "SysAdmin",
+        "section": "Courses",
+        "subsection": "Systems"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
+        "description": "900 compsci courses from unis",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.collegecompendium.org/",
+        "description": "650+ courses(programming)",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.unigo.com/",
+        "description": "Compare universities",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.cse.wustl.edu/",
+        "description": "Compsci",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "http://www.cs.furman.edu/~pbatchelor/",
+        "description": "Furman uni",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "http://www.online.stanford.edu/courses",
+        "description": "Stanford online courses",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.class-central.com/university/berkeley",
+        "description": "Notes from berkley",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.youtube.com/user/StanfordUniversity/videos",
+        "description": "Videos of stanford lectures",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "http://www.oyc.yale.edu/",
+        "description": "Yale uni",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.docsity.com/en/",
+        "description": "Notes from top UK unis",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "http://www.ocw.mit.edu/index.htm",
+        "description": "Notes from MIT",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "http://www.extension.harvard.edu/open-learning-initiative",
+        "description": "Notes from Harvard",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "http://www.podcasts.ox.ac.uk/series",
+        "description": "Podcast audio courses",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "http://www.london.ac.uk/podcast.html",
+        "description": "",
+        "section": "Courses",
+        "subsection": "Lists"
+    },
+    {
+        "url": "https://www.ed.ted.com/",
+        "description": "Educational content",
+        "section": "Courses",
+        "subsection": "General List"
+    },
+    {
+        "url": "https://www.edx.org/learn/economics/stanford-university-principles-of-economics",
+        "description": "Stanford finance and economics",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalgarage/course/effective-networking",
+        "description": "Effective networking",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalgarage/course/public-speaking",
+        "description": "Public speaking",
+        "section": "Skills",
+        "subsection": "Self improvement"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+        "description": "Digital marketing",
+        "section": "Finance Jobs",
+        "subsection": "Marketing"
+    },
+    {
+        "url": "https://www.memeuniversity.lol/",
+        "description": "Meme university degree",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.ulc.org/",
+        "description": "Become a minister to marry (US)",
+        "section": "Skills",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.web.stanford.edu/~cantwell/AA284A_Course_Material/AA284A_Resources/",
+        "description": "Rocket science course",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.getastra.com/blog/911/fixing-mcafee-norton-malwarebytes-avg-bing-blacklist/",
+        "description": "Bing SEO blacklist terms",
+        "section": "Programming",
+        "subsection": "Resources"
+    },
+    {
+        "url": "https://www.uplearn.co.uk/",
+        "description": "Learning (designed for A levels)",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.plagtracker.com/",
+        "description": "Plagarism tracker",
+        "section": "Courses",
+        "subsection": "Plagarism"
+    },
+    {
+        "url": "https://www.bestessays.com.au/",
+        "description": "Essay completion",
+        "section": "Courses",
+        "subsection": "Plagarism"
+    },
+    {
+        "url": "https://www.bibme.org/",
+        "description": "Bibliography",
+        "section": "Courses",
+        "subsection": "Plagarism"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bka20Q9TN6M",
+        "description": "Chemistry",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=nb4ovfwqup8&ab_channel=Nerd%27slesson",
+        "description": "Electronics",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.histology.oit.duke.edu/MBS/Videos/Neuro/",
+        "description": "Neuroscience",
+        "section": "Courses",
+        "subsection": "Uni Courses"
+    },
+    {
+        "url": "https://www.fullstackopen.com/en/",
+        "description": "Fullstack webdev",
+        "section": "Courses",
+        "subsection": "Programming"
+    },
+    {
+        "url": "https://www.udemy.com/course/practical-reinforcement-learning/",
+        "description": "Python reinforcement learning",
+        "section": "Courses",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.support.google.com/websearch/answer/12719076?hl=en",
+        "description": "Remove content of yourself hosted on google",
+        "section": "CyberSec",
+        "subsection": "Privacy"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL",
+        "description": "Cybersec books bundle",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.reddit.com/r/learnprogramming/comments/jjlues/i_finally_opened_my_yearsold_pandoras_box_of/",
+        "description": "Tons of cybersec links",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.reddit.com/r/cybersecurity/comments/iu17uu/cybersec_cheat_sheets_in_all_flavors_huge_list/",
+        "description": "Cybersec cheat sheets",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.docs.google.com/document/d/1XZK8aWjwcavYGO9N-NG6jbuNKdHjb8T0P5hTQj4aQ7s/edit",
+        "description": "Cybersec resources",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.hackthebox.eu",
+        "description": "Hack the box learning hacking",
+        "section": "CyberSec",
+        "subsection": "Ethical Hacking"
+    },
+    {
+        "url": "https://www.tryhackme.com",
+        "description": "Try hack me learn to hack",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
+        "description": "Cybersec course",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.reddit.com/r/privacy/comments/1984ju8/the_problem_with_most_file_encryption_tools_a/",
+        "description": "Problems with file encryption tools",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.cybrary.it/",
+        "description": "Cybersec resources",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.sans.org/uk_en/",
+        "description": "Learn cybersec",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.owasp.org/",
+        "description": "Learn cybersec",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.kumu.io/pancak3/cybercrime-ops-demo",
+        "description": "Cybercrime ops (demo)",
+        "section": "CyberSec",
+        "subsection": "Red team(offense)"
+    },
+    {
+        "url": "https://www.olinux.net/wp-content/uploads/2019/01/python.pdf",
+        "description": "Fundementals of python hacking",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.reddit.com/r/Hacking_Tutorials/comments/k04tbb/how_do_i_get_started_in_hacking_community_answers/",
+        "description": "Beginner help for cybersec",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.cloudflare.com/en-gb/learning/dns/dns-over-tls/",
+        "description": "DNS over http",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.lemon.io/blog/72-best-articles-for-ctos-and-tech-leaders/",
+        "description": "72 useful cybersec articles",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.thehackernews.com/2023/01/new-backdoor-created-using-leaked-cias.html",
+        "description": "Hive malware CIA case study",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.classcentral.com/subject/cybersecurity",
+        "description": "Cybersecurity subject",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.twitter.com/mikemillercyber/status/1661737056341725189",
+        "description": "30 cybersec skills",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.twitter.com/mikemillercyber/status/1663650155025821696",
+        "description": "30 cybersec skills",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.hackingarticles.in/domain-persistence-computer-accounts/",
+        "description": "Domain persistance with cybersec",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.cyber-school.joincyberdiscovery.com",
+        "description": "Cyber security learning",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.pbs.org/wgbh/nova/labs/lab/cyber/",
+        "description": "",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "http://www.targetedattacks.trendmicro.com/cyoa/en/",
+        "description": "Interactive game",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.docfate111.github.io/cybersecclub/roadmap.html",
+        "description": "learn to hack",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.reddit.com/r/hacking/comments/zadht7/best_way_to_learn_non_script_kiddie_stuff/",
+        "description": "learn intermediate",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.learning2hack665624120.wordpress.com/2020/08/26/tryhackme-write-up-blue/",
+        "description": "Tryhackme write up, eternal blue",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.learning2hack665624120.wordpress.com/2020/08/10/tryhackme-write-up-madness/",
+        "description": "Tryhackme write up, madness",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.reddit.com/r/cybersecurity/comments/or6s3d/i_want_to_studying_cybersecurity_where_do_i_start/",
+        "description": "Reddit cybersec learning thread",
+        "section": "CyberSec",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.androidpolice.com/how-to-delete-yourself-from-the-internet/",
+        "description": "How to delete your digital footprint",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.blackhat.com/",
+        "description": "Security research site",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/",
+        "description": "Pentagon IP addresses suddenly becoming active",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.404media.co/a-spy-site-is-scraping-discord-and-selling-users-messages/",
+        "description": "spy.pet bot scraping public discord user info",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.ibtimes.co.uk/iphones-androids-can-now-warn-you-secret-trackers-1724653",
+        "description": "Iphone android warn when tracked",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.heathrow.com/at-the-airport/security-and-baggage/flying-within-the-uk-and-ireland",
+        "description": "Heathrow airport face detection",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.tomsguide.com/news/billions-of-usernames-and-passwords-leaked-online-how-to-see-if-youre-affected",
+        "description": "Password leak",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.hackaday.com/2016/04/08/build-your-own-gsm-base-station-for-fun-and-profit/",
+        "description": "Build a GSM interceptor",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.osintteam.com/how-to-find-anyone-by-photo-the-secrets-of-reverse-image-search/",
+        "description": "Secrets of reverse image search",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.elnion.com/2023/07/19/data-security-is-the-new-cybersecurity/",
+        "description": "Data security is the new cybersecurity",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.insights.blackhatmea.com/cybersecurity-through-eyes-hacker/",
+        "description": "Cybersecurity from a hacker",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.prio-n.com/a-year-in-review-2022-100-vulnerabilities-you-should-prioritize/",
+        "description": "100 vulns in 2022",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.isoeh.com/exclusive-blog-details-cyber-security-education-why-it-is-needed.html",
+        "description": "Why cybersec is needed",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/",
+        "description": "Help with cybersec",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "http://www.news.ycombinator.com/",
+        "description": "Hacking news",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.arstechnica.com/information-technology/2020/09/lokibot-the-malware-that-steals-your-most-sensitive-data-is-on-the-rise/",
+        "description": "How lokibot steals data",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.reddit.com/r/Android/comments/kzs15v/how_law_enforcement_gets_around_your_smartphones/",
+        "description": "How police get around smartphone encryption",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/",
+        "description": "vmware vulns",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.krebsonsecurity.com/",
+        "description": "Articles on cybersec",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.labs.f-secure.com/blog/getting-real-with-xss/",
+        "description": "Learning XSS",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.zeltser.com/getting-the-right-it-job-tips/",
+        "description": "Getting the right IT job",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.zeltser.com/new-product-management-tips/",
+        "description": "Product management",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.zeltser.com/writing-tips-for-it-professionals/",
+        "description": "Writing tips for IT professionals",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.zeltser.com/security-incident-log-review-checklist/",
+        "description": "Critical Log Review Checklist for Security Incidents",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.bbc.co.uk/news/technology-67133157",
+        "description": "Clearview AI overturn privacy fine",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749",
+        "description": "US police search warrant over keywords",
+        "section": "CyberSec",
+        "subsection": "Articles"
     }
 ]
