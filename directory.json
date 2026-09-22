@@ -1,12 +1,12 @@
 [
     {
-        "url": "www.google.com",
+        "url": "https://www.google.com",
         "description": "Google Search Engine",
         "section": "Software",
         "subsection": "Search Engines"
     },
     {
-        "url": "www.bing.com",
+        "url": "https://www.bing.com",
         "description": "",
         "section": "Software",
         "subsection": "Search Engines"
@@ -1074,94 +1074,94 @@
         "subsection": "Directories"
     },
     {
-        "section": "Programming",
-        "subsection": "Java",
         "url": "http://java-programming.mooc.fi/",
-        "description": "Learn java"
+        "description": "Learn java",
+        "section": "Programming",
+        "subsection": "Java"
     },
     {
-        "section": "Programming",
-        "subsection": "JavaScript",
         "url": "https://www.w3schools.com/js/",
-        "description": "W3Schools section for javascript"
+        "description": "W3Schools section for javascript",
+        "section": "Programming",
+        "subsection": "JavaScript"
     },
     {
-        "section": "Programming",
-        "subsection": "HTML",
         "url": "https://www.youtube.com/watch?v=PypMN-yui4Y",
-        "description": "Introduction to HTML"
+        "description": "Introduction to HTML",
+        "section": "Programming",
+        "subsection": "HTML"
     },
     {
-        "section": "Programming",
-        "subsection": "Java",
         "url": "http://javatpoint.com",
-        "description": "Learn Java"
+        "description": "Learn Java",
+        "section": "Programming",
+        "subsection": "Java"
     },
     {
-        "section": "Programming",
-        "subsection": "Java",
         "url": "https://codingbat.com/java",
-        "description": "Learn java"
+        "description": "Learn java",
+        "section": "Programming",
+        "subsection": "Java"
     },
     {
-        "section": "Programming",
-        "subsection": "HTML",
         "url": "The box model - Learn web development | MDN",
-        "description": "HTML box model"
+        "description": "HTML box model",
+        "section": "Programming",
+        "subsection": "HTML"
     },
     {
-        "section": "Programming",
-        "subsection": "HTML",
         "url": "https://web.dev/learn-html-available/",
-        "description": "HTML Course"
+        "description": "HTML Course",
+        "section": "Programming",
+        "subsection": "HTML"
     },
     {
-        "section": "Programming",
-        "subsection": "HTML",
         "url": "https://www.codecademy.com/learn/learn-html",
-        "description": "Course for learning HTML"
+        "description": "Course for learning HTML",
+        "section": "Programming",
+        "subsection": "HTML"
     },
     {
-        "section": "Programming",
-        "subsection": "HTML",
         "url": "https://studio.code.org/docs/weblab/ol/",
-        "description": "Tool doc for html"
-    },
-    {
+        "description": "Tool doc for html",
         "section": "Programming",
-        "subsection": "HTML",
+        "subsection": "HTML"
+    },
+    {
         "url": "http://www.tizag.com/htmlT/",
-        "description": "Resource for learning HTML"
+        "description": "Resource for learning HTML",
+        "section": "Programming",
+        "subsection": "HTML"
     },
     {
-        "section": "Fitness",
-        "subsection": "Martial Arts",
         "url": "https://cdn.preterhuman.net/texts/survival/Aikido%20-%20Pressure%20Points.pdf",
-        "description": "Aikido"
+        "description": "Aikido",
+        "section": "Fitness",
+        "subsection": "Martial Arts"
     },
     {
-        "section": "Fitness",
-        "subsection": "Martial Arts",
         "url": "https://cdn.preterhuman.net/texts/survival/Lee,%20Bruce%20-%20Jeet%20Kune%20Do.pdf",
-        "description": "Jeet kuun do"
+        "description": "Jeet kuun do",
+        "section": "Fitness",
+        "subsection": "Martial Arts"
     },
     {
-        "section": "Fitness",
-        "subsection": "Health",
         "url": "https://www.eatbydate.com",
-        "description": "Food"
+        "description": "Food",
+        "section": "Fitness",
+        "subsection": "Health"
     },
     {
-        "section": "Fitness",
-        "subsection": "Health",
         "url": "https://pastebin.com/V84Y0J9Y",
-        "description": "4chan pastebin for fitness"
+        "description": "4chan pastebin for fitness",
+        "section": "Fitness",
+        "subsection": "Health"
     },
     {
-        "section": "Fitness",
-        "subsection": "Health",
         "url": "https://pastebin.com/V84Y0J9Y",
-        "description": "4chan fit notes"
+        "description": "4chan fit notes",
+        "section": "Fitness",
+        "subsection": "Health"
     },
     {
         "url": "https://www.ftp.idu.ac.id/wp-content/uploads/ebook/tdg/",
@@ -5134,5 +5134,1097 @@
         "description": "Compressed storage type file",
         "section": "FileTypes",
         "subsection": "List"
+    },
+    {
+        "url": "https://www.threatpost.com/valve-bug-unlimited-funds/168710/",
+        "description": "Steam bug analysis",
+        "section": "CyberSec",
+        "subsection": "Articles"
+    },
+    {
+        "url": "https://www.pdf2doc.com/",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.jpg2pdf.com/",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.png2jpg.com/",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.pdfcompressor.com/",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.zamzar.com/",
+        "description": "File converter",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.imagecompressor.com",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.wobzip.org/",
+        "description": "Uncompress files",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.en.y2mate.is/311/youtube-to-mp4.html",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "http://www.pdfescape.com/",
+        "description": "Edit PDFs",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.pdfunlock.com/",
+        "description": "",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.fliptext.org/",
+        "description": "Flip text",
+        "section": "FileTypes",
+        "subsection": "Conversion"
+    },
+    {
+        "url": "https://www.freecycle.org/",
+        "description": "Items to swap",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.darkpatterns.org/",
+        "description": "Practices used by businesses",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.chrome.google.com/webstore/detail/sloth-worth/oomipphdopeaobjffaagbfogfehpcfkh/related?hl=en-US",
+        "description": "Shows money that could be earned instead",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.mysubscriptionaddiction.com/directory/subscription-box",
+        "description": "Compare subscriptions",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.slant.co/",
+        "description": "Best discounted food",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.toogoodtogo.com/en-gb",
+        "description": "Too good to go food",
+        "section": "Finance Jobs",
+        "subsection": "Shopping"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ",
+        "description": "Multiple business learning help",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.learndigital.withgoogle.com/digitalgarage/course/business-online",
+        "description": "Build online business",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.wealthify.com/",
+        "description": "Wealth investment",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.systeme.io/",
+        "description": "Learn to run a business",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.entrepreneur.com/",
+        "description": "",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.blogseo.ai/",
+        "description": "Business AI help",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9VlvbpXwLJs&ab_channel=SimonSquibb",
+        "description": "30 years of business knowledge",
+        "section": "Finance Jobs",
+        "subsection": "Business"
+    },
+    {
+        "url": "https://www.wowcher.co.uk/",
+        "description": "Coupons",
+        "section": "Finance Jobs",
+        "subsection": "Comparison"
+    },
+    {
+        "url": "https://www.camelcamelcamel.com/",
+        "description": "discounts on amazon",
+        "section": "Finance Jobs",
+        "subsection": "Comparison"
+    },
+    {
+        "url": "https://www.keepa.com/",
+        "description": "Amazon price tracker",
+        "section": "Finance Jobs",
+        "subsection": "Comparison"
+    },
+    {
+        "url": "https://www.thekrazycouponlady.com/",
+        "description": "Store coupons",
+        "section": "Finance Jobs",
+        "subsection": "Comparison"
+    },
+    {
+        "url": "https://www.unplugthetv.com/",
+        "description": "Deals on cable TV",
+        "section": "Finance Jobs",
+        "subsection": "Comparison"
+    },
+    {
+        "url": "https://www.natwest.com/investments/natwest-invest.html",
+        "description": "Natwest investments",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.brokercomparison.com/uk-online-trading/",
+        "description": "Compare online brokers",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.moneysavingexpert.com/savings/investment-beginners/",
+        "description": "Investing in stocks for beginners",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.moneyfactscompare.co.uk/investments/how-to-invest-in-shares/",
+        "description": "How to invest in shares",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.nerdwallet.com/article/investing/how-to-invest-in-stocks",
+        "description": "How to invest in shares",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.etoro.com/",
+        "description": "Trading platform",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_YVQN6_nkfs",
+        "description": "Trading for beginners tutorial",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RaKfKl9G-Q4",
+        "description": "Day trading from an expert tutorial",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.app.trading212.com/",
+        "description": "Trading212",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.moneyboxapp.com/",
+        "description": "Lifetime ISA / ISA",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.academia.edu/40596067/Business_Intelligence_A_Managerial_Perspective_on_Analytics?email_work_card=view-paper",
+        "description": "Business analytics",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.t.co/XCjsy9iTwX",
+        "description": "Land a new job",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.moneysavingexpert.com/",
+        "description": "Money advice",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.wifispc.com/",
+        "description": "Wifi hotspots US",
+        "section": "Skills",
+        "subsection": "Travel"
+    },
+    {
+        "url": "https://www.hr.fhda.edu/_downloads/",
+        "description": "HR forms",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IuTv5qu7A0Q&ab_channel=NathanielDrew",
+        "description": "How to be a digital nomad + make money",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.reddit.com/r/cybersecurity/comments/1343ijp/people_to_follow_on_linkedin",
+        "description": "",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.sidehustlestack.co",
+        "description": "Side hustles",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.scribie.com/",
+        "description": "Transcribe writing",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.clearvoice.com/",
+        "description": "Writing",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.reddit.com/r/ITCareerQuestions/comments/oiepr9/which_it_career_path_is_the_best_for_someone_that/",
+        "description": "Remote IT jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.startup.jobs/",
+        "description": "Jobs at startups",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.freelancewriting.com/jobs/",
+        "description": "Freelancer jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.remotewide.co/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.remoteok.com/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.himalayas.app/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.weworkremotely.com/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.wellfound.com/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.remote.co/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.jobboardsearch.com/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.workingnomads.com/jobs",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.fieldagent.net/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.entr.tech",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.github.com/browser-use",
+        "description": "AI powered job finder",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.dailyremote.com/",
+        "description": "Remote jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.careerjet.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.simplyhired.com",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.talentegg.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.torontojobs.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.ca.jooble.org",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.jobillico.com/en",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.roberthalf.ca/en",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.ca.talent.com",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.ziprecruiter.com",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.glassdoor.com",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.ca.indeed.com/cmp/Neuvoo",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.careerbuilder.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.jobboom.com/en",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.monster.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.Neuvoo.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.workopolis.com/en/",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.m.eluta.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.kijiji.ca/b-jobs/canada/\u2026",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.wowjobs.ca",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.jobbank.gc.ca/home",
+        "description": "Canadian Jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.4dayweek.io/",
+        "description": "4 day week jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.useconnex.com/",
+        "description": "Without referral",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.search.firstround.com/?ref=producthunt",
+        "description": "Articles on startups",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "http://www.lessonpaths.com/categories/browsePlaylists/academic",
+        "description": "",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.web.microsoftstream.com/video/494c272e-f057-45e6-8273-b89ae9523dea",
+        "description": "Build a good CV",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
+        "description": "Career guide full stack web dev",
+        "section": "Finance Jobs",
+        "subsection": "Advice"
+    },
+    {
+        "url": "https://www.trymyui.com/worker/signup",
+        "description": "Paid to test",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.apps.apple.com/us/app/snapwire-sell-your-photos/id725106358",
+        "description": "Sell photos",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.internships.com",
+        "description": "Find internships",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.intentmatch.com",
+        "description": "Find internships",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.idealist.com",
+        "description": "Find internships",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.usajobs.com",
+        "description": "US jobs",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.youtern.com",
+        "description": "Find internships",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.mediabistro.com",
+        "description": "",
+        "section": "Finance Jobs",
+        "subsection": "Jobs"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Kpm8rEywBDQ",
+        "description": "Resume writing",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "https://www.drive.google.com/file/d/1REOgBzH2Xakv4Py7LF__5MmEYHte-qi5/view",
+        "description": "Statement of purpose CV",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "https://www.drive.google.com/file/d/1sFDqL6kGDLGuAdZSVrztkxwn9TAVlpjR/view",
+        "description": "Graduate CV",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "https://www.drive.google.com/file/d/1lEtQDfpXzMe8mUWCWTBupnNznorfR0yc/view?usp=drivesdk",
+        "description": "grad with exp CV",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "https://www.reddit.com/r/YouShouldKnow/comments/j6pfda/ysk_your_cover_letter_should_be_less_about_you/",
+        "description": "Writing a cover letter",
+        "section": "Finance Jobs",
+        "subsection": "Applying"
+    },
+    {
+        "url": "http://www.liamrosen.com/fitness.html /fit exercise guide",
+        "description": "Exercise guide",
+        "section": "Fitness",
+        "subsection": "Routines"
+    },
+    {
+        "url": "https://www.darebee.com/",
+        "description": "Workout builder",
+        "section": "Fitness",
+        "subsection": "Routines"
+    },
+    {
+        "url": "https://www.sworkit.com/",
+        "description": "Wellbeing app",
+        "section": "Fitness",
+        "subsection": "WellBeing"
+    },
+    {
+        "url": "https://www.cdn.preterhuman.net/texts/survival/Aikido%20-%20Pressure%20Points.pdf",
+        "description": "Aikido",
+        "section": "Fitness",
+        "subsection": "Martial Arts"
+    },
+    {
+        "url": "https://www.cdn.preterhuman.net/texts/survival/Lee,%20Bruce%20-%20Jeet%20Kune%20Do.pdf",
+        "description": "Jeet kuun do",
+        "section": "Fitness",
+        "subsection": "Martial Arts"
+    },
+    {
+        "url": "https://www.pastebin.com/V84Y0J9Y",
+        "description": "4chan pastebin for fitness",
+        "section": "Fitness",
+        "subsection": "Health"
+    },
+    {
+        "url": "https://www.snesfun.com/",
+        "description": "",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "http://www.content.segaxtreme.net/satdev/programs/",
+        "description": "Retro games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.ubg365.github.io",
+        "description": "Play games in browser",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.bluemaxima.org/",
+        "description": "Archived flash games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.arcarc.xmission.com/",
+        "description": "Arcade archive",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "http://www.files.abandonia.com/extras/",
+        "description": "DOS casino games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.steamunlocked.net/",
+        "description": "Cracked steam games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.boosteroid.com/",
+        "description": "Cloud gaming",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.flashmuseum.org/",
+        "description": "Flash games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.ncase.me/trust/",
+        "description": "",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.ixlmathwork.co/",
+        "description": "Google games",
+        "section": "Games",
+        "subsection": "Sites"
+    },
+    {
+        "url": "https://www.bluestacks.com/",
+        "description": "Phone emulation",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.repo.mariocube.com/",
+        "description": "Wii-Gamecube",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1_rk2Y2Dm4t95OqA4RJT1T3oTv6Q7J9o8",
+        "description": "Games",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s",
+        "description": "Nintendo ROMs",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/open?id=1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf",
+        "description": "GBA ROMs",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.archive.org/details/no-intro-rom-sets",
+        "description": "GBA ROMs",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g",
+        "description": "5th 6th Gen ROMs",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.classicreload.com/",
+        "description": "Old DOS games",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.emulatorgames.online/",
+        "description": "Playable",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "http://www.90.230.15.92/",
+        "description": "ROMS and hardware",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.emulatorgames.net/roms/",
+        "description": "ROMs for emulators",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "http://www.fuzzcast.chronos.feralhosting.com/",
+        "description": "Dreamcast",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1jbgC6YA3ti_AiEGGXDAPoC847o2gxWD6",
+        "description": "NES",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1iYc2T6wfsSQsgf50VsNuN256prc6tagT",
+        "description": "Megadrive",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1IQ_bmrLr1IVtHMMDlBovL75vSZ3axKNn",
+        "description": "SNES",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1Cv10J2rc8Gk4GNQlrHFivrzg0w5JPDES",
+        "description": "N64",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1cvmYivzmjsbVwMb79edP2w0QKvFPfKFJ",
+        "description": "Switch",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/folders/1z5K8OAe43gaSWnt2CLVDsOdc8C1nJdbd",
+        "description": "Wiigames.com",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.archive.midnightchannel.net/SonyPS/",
+        "description": "PS updates",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "http://www.hl.udogs.net/files/",
+        "description": "Bungie games",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "https://www.drive.google.com/drive/u/0/folders/10t2oSX7ffEbVi4Gfr6vew1O2cbaXVdWb",
+        "description": "Unsorted",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "http://www.sonicfans21.sonic-city.ru/Programs/",
+        "description": "Sonic Games",
+        "section": "Games",
+        "subsection": "Emulation"
+    },
+    {
+        "url": "http://www.mc.ryankrage77.me:8083/",
+        "description": "Cyberpunk DLC",
+        "section": "Games",
+        "subsection": "DLC"
+    },
+    {
+        "url": "https://www.modland.com/",
+        "description": "Mods",
+        "section": "Games",
+        "subsection": "Mods"
+    },
+    {
+        "url": "https://www.csse.canterbury.ac.nz/greg.ewing/minecraft/mods/SGCraft/doc/Programs/",
+        "description": "Minecraft mods",
+        "section": "Games",
+        "subsection": "Mods"
+    },
+    {
+        "url": "https://www.nintendo.co.jp/clv/manuals/",
+        "description": "NES",
+        "section": "Games",
+        "subsection": "Manuals"
+    },
+    {
+        "url": "https://www.nintendo.co.jp/clvs/manuals/",
+        "description": "SNES",
+        "section": "Games",
+        "subsection": "Manuals"
+    },
+    {
+        "url": "https://www.en-americas-support.nintendo.com/app/answers/detail/p/50/a_id/16881",
+        "description": "By system",
+        "section": "Games",
+        "subsection": "Manuals"
+    },
+    {
+        "url": "https://www.nintendo.co.uk/Search/Search-299117.html?q=game%20manual&f=147397-3958",
+        "description": "",
+        "section": "Games",
+        "subsection": "Manuals"
+    },
+    {
+        "url": "https://www.thegameisafootarcade.com/wp-content/uploads/",
+        "description": "",
+        "section": "Games",
+        "subsection": "Manuals"
+    },
+    {
+        "url": "https://www.rawg.io/",
+        "description": "",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "https://www.gameslikefinder.com/games-like-directory",
+        "description": "",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "https://www.blisscast.wordpress.com/2023/06/13/the-magic-of-the-wii-startup-disc/",
+        "description": "Wii startup disc",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "http://www.kschnee.xepher.net/rpg/",
+        "description": "RNG index resources",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "http://www.frpworld.com/downloads/",
+        "description": "DnD",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "https://www.archive.midnightchannel.net/SonyPS/Firmware/?cat=ps3pkg",
+        "description": "PS firmware",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "https://www.store.unity.com/download",
+        "description": "Unity",
+        "section": "Game Development",
+        "subsection": "Engines"
+    },
+    {
+        "url": "https://www.unrealengine.com/en-US/download",
+        "description": "Unreal",
+        "section": "Game Development",
+        "subsection": "Engines"
+    },
+    {
+        "url": "hwww.ttps://www.ttps://www.rpgmakerweb.com/downloads",
+        "description": "RPG Maker",
+        "section": "Game Development",
+        "subsection": "Engines"
+    },
+    {
+        "url": "https://www.automatetheboringstuff.com",
+        "description": "Download of coding book",
+        "section": "Books",
+        "subsection": "Coding"
+    },
+    {
+        "url": "https://www.openwhenletters.app/new",
+        "description": "Letters to read for all occasions",
+        "section": "Skills",
+        "subsection": "Self improvement"
+    },
+    {
+        "url": "https://www.neal.fun",
+        "description": "Mini interactions",
+        "section": "Games",
+        "subsection": "Discovery"
+    },
+    {
+        "url": "https://www.localsend.org/",
+        "description": "Airdrop for windows",
+        "section": "Software",
+        "subsection": "Files"
+    },
+    {
+        "url": "https://www.malwarebytes.com/",
+        "description": "Antivirus",
+        "section": "Software",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.nirsoft.net/utils/product_cd_key_viewer.html",
+        "description": "Key generator for windows on pc",
+        "section": "Software",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.glarysoft.com/",
+        "description": "Utility cleaner for pc",
+        "section": "Software",
+        "subsection": "Files"
+    },
+    {
+        "url": "https://www.learn.microsoft.com/en-us/sysinternals/downloads/process-explorer",
+        "description": "Advanced task manager",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.dupe.com",
+        "description": "Find furniture wholeseller",
+        "section": "Skills",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.parkerdewey.com",
+        "description": "Micro internships",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.movingworlds.org",
+        "description": "Short skilled placements",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.theforage.com",
+        "description": "Virtual job simulations",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.catchafire.org",
+        "description": "Matched to project based on skills",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.Taprootfoundation.org/taproot-plus",
+        "description": "Longer term volunteering",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.vollie.com.au",
+        "description": "Remote-aussie based projects",
+        "section": "Finance Jobs",
+        "subsection": "Internships"
+    },
+    {
+        "url": "https://www.cs50.harvard.edu/games/",
+        "description": "Learn to code with games",
+        "section": "Programming",
+        "subsection": "Learning"
+    },
+    {
+        "url": "https://www.cinehd.app/home",
+        "description": "Watch shows online",
+        "section": "Media",
+        "subsection": "Movies"
+    },
+    {
+        "url": "https://www.app.invoapp.com",
+        "description": "Crypto/trader portfolios",
+        "section": "Finance Jobs",
+        "subsection": "Investment"
+    },
+    {
+        "url": "https://www.mcbroken.com",
+        "description": "Find out if a mcdonalds ice cream machine is down",
+        "section": "Skills",
+        "subsection": "Other"
+    },
+    {
+        "url": "https://www.huggingbay.xyz",
+        "description": "Language models",
+        "section": "Programming",
+        "subsection": "AI"
+    },
+    {
+        "url": "https://www.github.com/sherlock-project/sherlock",
+        "description": "Sherlock, track down social media accounts",
+        "section": "CyberSec",
+        "subsection": "Tools"
+    },
+    {
+        "url": "https://www.arnismc.com",
+        "description": "Put real world minecraft into a map",
+        "section": "Games",
+        "subsection": "Mods"
     }
 ]
