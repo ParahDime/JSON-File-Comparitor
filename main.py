@@ -35,6 +35,21 @@ class DirectoryManager:
         )
         #Check if items in read in queue
         
+        """ BUTTONS BELOW: Consider editing (see functions in hash)"""
+        self.read_in_btn = tk.Button(
+                    root, text="Check link", 
+                    bg="#33493c", fg="white", font=('Arial', 10, 'bold'),
+                    command=self.check_link
+                )
+        self.read_in_btn.pack(pady=10)
+
+        self.read_in_btn = tk.Button(
+                    root, text="Convert to SQL", 
+                    bg="#33493c", fg="white", font=('Arial', 10, 'bold'),
+                    command=self.send_to_sql
+                )
+        self.read_in_btn.pack(pady=10)
+        
 
         #dropdown lists
         self.section_menu = tk.StringVar(value="Select Section")
@@ -288,7 +303,14 @@ class DirectoryManager:
             btn_frame, text="Close Window", bg="#555555", fg="white", 
             font=('Arial', 9, 'bold'), width=12, command=skip_for_later
         ).grid(row=0, column=2, padx=5)   
-        
+
+    #convert json file to sql .db
+    def send_to_sql():
+        print("hello world")
+
+    #check a link for any matches (close + identical)
+    def check_link():
+        print("hello world")   
     #Dropdown population
     def load_json(self, filename):
         if not os.path.exists(filename):

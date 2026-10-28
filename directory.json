@@ -6226,5 +6226,35 @@
         "description": "Put real world minecraft into a map",
         "section": "Games",
         "subsection": "Mods"
+    },
+    {
+        "url": "https://www.mystery.alephb.uk",
+        "description": "Interactive sql game",
+        "section": "Programming Languages",
+        "subsection": "SQL"
+    },
+    {
+        "url": "https://www.udm14.com",
+        "description": "google ai free search engine",
+        "section": "Software",
+        "subsection": "Search Engines"
+    },
+    {
+        "url": "https://www.ilovefreegle.org/",
+        "description": "Free preloved items",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.olioapp.com/en/",
+        "description": "Free food shop app",
+        "section": "Software",
+        "subsection": "Download"
+    },
+    {
+        "url": "https://www.gitdiagram.com/",
+        "description": "Visualise a github repo",
+        "section": "Programming",
+        "subsection": "Help"
     }
 ]
