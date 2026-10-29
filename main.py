@@ -5,6 +5,7 @@ from rapidfuzz import fuzz #old package
 import os
 from urllib.parse import urlparse
 
+import sqlite3
 import pandas as pd
 
 
@@ -304,13 +305,51 @@ class DirectoryManager:
             font=('Arial', 9, 'bold'), width=12, command=skip_for_later
         ).grid(row=0, column=2, padx=5)   
 
+
+
     #convert json file to sql .db
-    def send_to_sql():
-        print("hello world")
+    def send_to_sql(self):
+        data = self.load_json(self.data_file)
+        if not data:
+            messagebox.showwarning("Warning", "No entries to convert.")
+            return
+        
+        base = os.path.dirname(os.path.abspath(__file__))
+        path = os.path.join(base, "directory.db")
+        sql_path = os.path.join(base, "directory.sql")
+        if not path:
+            return
+
+        if os.path.exists(path):
+            #os.remove(path)#remove old file to rewrite
+            conn = sqlite3.connect(path)
+            try:
+                conn.execute("""CREATE TABLE links (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    url TEXT NOT NULL,
+                    description TEXT,
+                    section TEXT NOT NULL,
+                    subsection TEXT NOT NULL)""")    
+                # bulk insert in one transaction
+                conn.executemany(                     
+                    "INSERT INTO links (url, description, section, subsection) VALUES (?, ?, ?, ?)",
+                    [(e['url'], e.get('description', ''), e['section'], e['subsection']) for e in data])
+                conn.execute("CREATE INDEX idx_links_cat ON links (section, subsection)")  
+                conn.commit()
+                with open(os.path.splitext(path)[0] + ".sql", "w", encoding="utf-8") as f:
+                    f.write("\n".join(conn.iterdump()))
+                messagebox.showinfo("Done", f"Exported {len(data)} entries to {path}")
+            except Exception as e:
+                messagebox.showerror("Error", f"SQL export failed:\n{e}")
+            finally:
+                conn.close()
 
     #check a link for any matches (close + identical)
     def check_link():
         print("hello world")   
+
+
+
     #Dropdown population
     def load_json(self, filename):
         if not os.path.exists(filename):
